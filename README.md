@@ -72,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/run-08/Arun_leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/run-08/Arun_leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/run-08/Arun_leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
