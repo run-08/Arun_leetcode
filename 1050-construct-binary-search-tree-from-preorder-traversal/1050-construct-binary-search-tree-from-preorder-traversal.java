@@ -20,9 +20,7 @@ class Solution {
           return root;
     }
     public TreeNode bacres(TreeNode root,int val){
-          if(root == null){
-          return new TreeNode(val);
-          }
+          if(root == null) return new TreeNode(val);
           if(root.val > val) root.left = bacres(root.left,val);
           else root.right = bacres(root.right,val);
           return root;
