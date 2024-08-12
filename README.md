@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/run-08/Arun_leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1185-find-in-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1185-find-in-mountain-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/run-08/Arun_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/run-08/Arun_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/run-08/Arun_leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0623-add-one-row-to-tree](https://github.com/run-08/Arun_leetcode/tree/master/0623-add-one-row-to-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -110,4 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/run-08/Arun_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/run-08/Arun_leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0623-add-one-row-to-tree](https://github.com/run-08/Arun_leetcode/tree/master/0623-add-one-row-to-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
