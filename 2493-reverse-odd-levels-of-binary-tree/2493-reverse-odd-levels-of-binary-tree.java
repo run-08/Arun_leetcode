@@ -24,7 +24,7 @@ class Solution {
             List<TreeNode> Data = q.poll();
             List<TreeNode> Adder = new ArrayList<>();
             for(int i = 0;i < Data.size();i++){
-                System.out.print(Data.get(i).val);
+                // System.out.print(Data.get(i).val);
                  if(Data.get(i).left != null) swaper.add(Data.get(i).left.val);
                  if(Data.get(i).right != null) swaper.add(Data.get(i).right.val);
             }
