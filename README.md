@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/run-08/Arun_leetcode/tree/master/0476-number-complement) |
 ## Counting
 |  |
 | ------- |
