@@ -18,10 +18,6 @@ class Solution {
                 }
             }
         }
-         for(int i = 0; i < matrix.length;i++){
-            for(int j = 0;j < matrix[i].length;j++) System.out.print(matrix[i][j]);
-            System.out.print("\n");
-        }
         for(int i = 1;i <  matrix[0].length;i++){
             if(matrix[0][i] != 0) continue;
             for(int j = 0;j < matrix.length;j++) matrix[j][i] = 0;
