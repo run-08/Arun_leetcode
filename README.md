@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/run-08/Arun_leetcode/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
+| [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/run-08/Arun_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 ## Graph
 |  |
 | ------- |
