@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/run-08/Arun_leetcode/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/run-08/Arun_leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/run-08/Arun_leetcode/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/run-08/Arun_leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -206,4 +207,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/run-08/Arun_leetcode/tree/master/0045-jump-game-ii) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/run-08/Arun_leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
