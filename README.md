@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1185-find-in-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1185-find-in-mountain-array) |
+| [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1505-create-target-array-in-the-given-order](https://github.com/run-08/Arun_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/run-08/Arun_leetcode/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/run-08/Arun_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/run-08/Arun_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
