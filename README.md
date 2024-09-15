@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/run-08/Arun_leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1185-find-in-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1185-find-in-mountain-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
+| [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/run-08/Arun_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/run-08/Arun_leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/run-08/Arun_leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [2411-spiral-matrix-iv](https://github.com/run-08/Arun_leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/run-08/Arun_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
