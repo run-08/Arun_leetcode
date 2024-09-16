@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/run-08/Arun_leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/run-08/Arun_leetcode/tree/master/0162-find-peak-element) |
+| [0198-house-robber](https://github.com/run-08/Arun_leetcode/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/run-08/Arun_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/run-08/Arun_leetcode/tree/master/0045-jump-game-ii) |
+| [0198-house-robber](https://github.com/run-08/Arun_leetcode/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
