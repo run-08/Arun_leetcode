@@ -34,7 +34,7 @@ class Solution {
     }
     public boolean Traversal(int index,List<Integer> ls,TreeNode root){
       if(root == null) return false;
-      System.out.print(root.val);
+    //   System.out.print(root.val);
       if(root.val == ls.get(index)) {
         if(checkisSubPath(index,ls,root)) return true;
       }
