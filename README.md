@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/run-08/Arun_leetcode/tree/master/0547-number-of-provinces) |
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/run-08/Arun_leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Linked List
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/run-08/Arun_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/run-08/Arun_leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/run-08/Arun_leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/run-08/Arun_leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/run-08/Arun_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/run-08/Arun_leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0547-number-of-provinces](https://github.com/run-08/Arun_leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/run-08/Arun_leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/run-08/Arun_leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
