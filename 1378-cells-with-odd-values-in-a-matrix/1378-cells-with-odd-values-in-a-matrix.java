@@ -6,8 +6,7 @@ class Solution {
             for(int j = 0;j < m;j++) arr[j][indices[i][1]] += 1;
         }
         int count = 0;
-        for(int[] Data : arr)
-           for(int val : Data) if(val % 2 != 0) count++;
+        for(int[] Data : arr) for(int val : Data) if(val % 2 != 0) count++;
         return count;
     }
 }
