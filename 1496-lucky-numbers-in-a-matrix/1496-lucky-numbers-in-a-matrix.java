@@ -10,7 +10,6 @@ class Solution {
                     pos = j;
                  }
             }
-            System.out.print(pos);
             int max = Integer.MIN_VALUE;
             for(int j = 0;j < matrix.length;j++)   if(matrix[j][pos] > max) max =  matrix[j][pos];          
             if(max == min) res.add(max);
