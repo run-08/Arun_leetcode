@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/run-08/Arun_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/run-08/Arun_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/run-08/Arun_leetcode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/run-08/Arun_leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/run-08/Arun_leetcode/tree/master/2411-spiral-matrix-iv) |
