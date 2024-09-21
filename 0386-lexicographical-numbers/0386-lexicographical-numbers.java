@@ -1,10 +1,18 @@
 class Solution {
     public List<Integer> lexicalOrder(int n) {
-       Integer[] arr = new Integer[n];
-      for(int i = 0;i < n;i++) arr[i] = i+1;
-      Arrays.sort(arr, (a, b) -> String.valueOf(a).compareTo(String.valueOf(b)));
-      List<Integer> res = new ArrayList<>();
-      for(int num : arr) res.add(num);
-      return res;
+        List<Integer> res = new ArrayList<>();
+       for(int i = 1;i < 10;i++){
+        if(i <= n) res.add(i);
+        compute(n,String.valueOf(i),res);
+       }
+       return res;
+    }
+    public void compute(int n,String num, List<Integer> res){
+        for(int i = 0;i <= 9;i++){
+            int Data = Integer.parseInt(num+String.valueOf(i));
+            if(Data > n) return;
+            res.add(Data);
+            compute(n,num+String.valueOf(i),res);
+        }
     }
 }
