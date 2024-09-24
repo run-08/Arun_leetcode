@@ -10,7 +10,6 @@ class Solution {
                 Largest1Index = i;
             }
             else if(nums[i] > Largest2) Largest2 = nums[i];
-            else continue;
         }
        return (Largest2*2 <= Largest1) ?  Largest1Index : -1; 
     }
