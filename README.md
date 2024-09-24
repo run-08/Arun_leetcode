@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0739-daily-temperatures](https://github.com/run-08/Arun_leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/run-08/Arun_leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/run-08/Arun_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/run-08/Arun_leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/run-08/Arun_leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/run-08/Arun_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/run-08/Arun_leetcode/tree/master/1970-sorting-the-sentence) |
