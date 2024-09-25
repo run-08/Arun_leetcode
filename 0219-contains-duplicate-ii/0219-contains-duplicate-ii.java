@@ -6,7 +6,6 @@ class Solution {
             else hm.put(nums[i],1);
         }
         int idx = 0;
-        System.out.print(hm);
         for(int i = k;i < nums.length;i++){
             if(hm.containsKey(nums[i])) return true;
             else hm.put(nums[i],1);
