@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/run-08/Arun_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/run-08/Arun_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/run-08/Arun_leetcode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/run-08/Arun_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0729-my-calendar-i](https://github.com/run-08/Arun_leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
@@ -413,5 +415,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/run-08/Arun_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
