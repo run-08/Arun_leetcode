@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/run-08/Arun_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
+| [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/run-08/Arun_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/run-08/Arun_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/run-08/Arun_leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/run-08/Arun_leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/run-08/Arun_leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/run-08/Arun_leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
@@ -417,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/run-08/Arun_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
