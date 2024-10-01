@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/run-08/Arun_leetcode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/run-08/Arun_leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/run-08/Arun_leetcode/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/run-08/Arun_leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/run-08/Arun_leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/run-08/Arun_leetcode/tree/master/0179-largest-number) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Number Theory
 |  |
 | ------- |
