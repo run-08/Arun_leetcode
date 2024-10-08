@@ -1,5 +1,6 @@
 class Solution {
     public int findClosestNumber(int[] nums) {
+        // Approach One 
         int positive_val = Integer.MAX_VALUE;
         int negative_val = Integer.MIN_VALUE;
         for(int val : nums){
@@ -9,5 +10,7 @@ class Solution {
         }
         if(Math.abs(negative_val) < 0) negative_val -= 1;
         return (positive_val <= Math.abs(negative_val))  ? positive_val : negative_val;
+    // Approach Two :- 
+    ;
     }
 }
