@@ -6,7 +6,7 @@ class Solution {
             currentNum += nums[i];
             if(currentNum < nums[i]) currentNum = nums[i];
             maximumNum = (currentNum > maximumNum) ? currentNum : maximumNum;      // O( N )
-        }
+        } 
         return maximumNum;
         // int max = arr[0];
         // for(int i = 0;i < arr.length;i++){
