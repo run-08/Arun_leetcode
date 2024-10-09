@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/run-08/Arun_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/run-08/Arun_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3582-find-indices-of-stable-mountains](https://github.com/run-08/Arun_leetcode/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Binary Search
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/run-08/Arun_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2561-number-of-distinct-averages](https://github.com/run-08/Arun_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/run-08/Arun_leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/run-08/Arun_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/run-08/Arun_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/run-08/Arun_leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2698-find-the-array-concatenation-value](https://github.com/run-08/Arun_leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/run-08/Arun_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
 | ------- |
