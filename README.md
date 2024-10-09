@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/run-08/Arun_leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/run-08/Arun_leetcode/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 <!---LeetCode Topics End-->
