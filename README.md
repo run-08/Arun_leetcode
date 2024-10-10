@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/run-08/Arun_leetcode/tree/master/0648-replace-words) |
 | [0682-baseball-game](https://github.com/run-08/Arun_leetcode/tree/master/0682-baseball-game) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/run-08/Arun_leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/run-08/Arun_leetcode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/run-08/Arun_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/run-08/Arun_leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/run-08/Arun_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
