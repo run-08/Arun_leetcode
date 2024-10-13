@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/run-08/Arun_leetcode/tree/master/0648-replace-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/run-08/Arun_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/run-08/Arun_leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
