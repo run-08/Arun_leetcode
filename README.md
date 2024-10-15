@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/run-08/Arun_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/run-08/Arun_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/run-08/Arun_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/run-08/Arun_leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2698-find-the-array-concatenation-value](https://github.com/run-08/Arun_leetcode/tree/master/2698-find-the-array-concatenation-value) |
+| [3195-separate-black-and-white-balls](https://github.com/run-08/Arun_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/run-08/Arun_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/run-08/Arun_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3195-separate-black-and-white-balls](https://github.com/run-08/Arun_leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Number Theory
 |  |
 | ------- |
