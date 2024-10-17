@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/run-08/Arun_leetcode/tree/master/0670-maximum-swap) |
 | [1031-add-to-array-form-of-integer](https://github.com/run-08/Arun_leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/run-08/Arun_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/run-08/Arun_leetcode/tree/master/0045-jump-game-ii) |
 | [0179-largest-number](https://github.com/run-08/Arun_leetcode/tree/master/0179-largest-number) |
 | [0455-assign-cookies](https://github.com/run-08/Arun_leetcode/tree/master/0455-assign-cookies) |
+| [0670-maximum-swap](https://github.com/run-08/Arun_leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/run-08/Arun_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
