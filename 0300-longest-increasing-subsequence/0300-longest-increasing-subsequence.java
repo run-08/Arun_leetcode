@@ -7,7 +7,8 @@ class Solution {
                 if(nums[i] > nums[j]) dp[i] = Math.max(dp[i],dp[j]+1);
             }
         }
-        Arrays.sort(dp);
-        return dp[dp.length-1];
+        int max = Integer.MIN_VALUE;
+        for(int val : dp) if(val > max) max = val;
+        return max;
     }
 }
