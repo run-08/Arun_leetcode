@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/run-08/Arun_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
+| [2752-sum-multiples](https://github.com/run-08/Arun_leetcode/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/run-08/Arun_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
