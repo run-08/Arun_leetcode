@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/run-08/Arun_leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/run-08/Arun_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2058-concatenation-of-array](https://github.com/run-08/Arun_leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/run-08/Arun_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1449-print-words-vertically](https://github.com/run-08/Arun_leetcode/tree/master/1449-print-words-vertically) |
 | [1505-create-target-array-in-the-given-order](https://github.com/run-08/Arun_leetcode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2058-concatenation-of-array](https://github.com/run-08/Arun_leetcode/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/run-08/Arun_leetcode/tree/master/2411-spiral-matrix-iv) |
