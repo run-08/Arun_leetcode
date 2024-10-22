@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/run-08/Arun_leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/run-08/Arun_leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/run-08/Arun_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2058-concatenation-of-array](https://github.com/run-08/Arun_leetcode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/run-08/Arun_leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/run-08/Arun_leetcode/tree/master/1970-sorting-the-sentence) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/run-08/Arun_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/run-08/Arun_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/run-08/Arun_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/run-08/Arun_leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/run-08/Arun_leetcode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/run-08/Arun_leetcode/tree/master/1923-sentence-similarity-iii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/run-08/Arun_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/run-08/Arun_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/run-08/Arun_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2561-number-of-distinct-averages](https://github.com/run-08/Arun_leetcode/tree/master/2561-number-of-distinct-averages) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/run-08/Arun_leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/run-08/Arun_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/run-08/Arun_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3195-separate-black-and-white-balls](https://github.com/run-08/Arun_leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Number Theory
