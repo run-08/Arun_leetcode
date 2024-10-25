@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/run-08/Arun_leetcode/tree/master/0648-replace-words) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/run-08/Arun_leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/run-08/Arun_leetcode/tree/master/0648-replace-words) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/run-08/Arun_leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/run-08/Arun_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
