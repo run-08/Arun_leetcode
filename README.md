@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/run-08/Arun_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/run-08/Arun_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/run-08/Arun_leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2411-spiral-matrix-iv](https://github.com/run-08/Arun_leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/run-08/Arun_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/run-08/Arun_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/run-08/Arun_leetcode/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/run-08/Arun_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/run-08/Arun_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2411-spiral-matrix-iv](https://github.com/run-08/Arun_leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2698-find-the-array-concatenation-value](https://github.com/run-08/Arun_leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -565,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
