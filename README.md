@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/run-08/Arun_leetcode/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/run-08/Arun_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/run-08/Arun_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Bit Manipulation
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/run-08/Arun_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/run-08/Arun_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2698-find-the-array-concatenation-value](https://github.com/run-08/Arun_leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/run-08/Arun_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/run-08/Arun_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Graph
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/run-08/Arun_leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/run-08/Arun_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Tree
 |  |
 | ------- |
