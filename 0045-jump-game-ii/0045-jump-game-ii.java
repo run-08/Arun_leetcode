@@ -1,23 +1,23 @@
 class Solution {
     public int jump(int[] nums) {
-        int cnt = 0;
-        int pos = 0;
-        while(pos < nums.length-1){
-            cnt++;
-            int pos_ele = nums[pos];
-            if(pos_ele >=(nums.length-1) - pos) return cnt;
-            int distance = Integer.MAX_VALUE;
-            int distance_pos = pos;
-            for(int i = pos;i <= (pos+pos_ele);i++){
-                int distance_in = (((nums.length-1)-i) - nums[i]);
-                if(distance > distance_in){
+        int jump = 0;
+        int n = nums.length;
+        if(nums.length == 1) return 0;
+        if(nums[0] == 0) return -1;
+        for(int i = 0;i < n;i++){
+            if(nums[i] >= (nums.length - 1) - i) return jump+1;
+            jump++;
+            int idx = nums[i]+i;
+            int distance = Integer.MIN_VALUE;
+            for(int j = i+nums[i];j >= i;j--){
+                int distance_in = nums[j]+j;
+                if(distance_in >= distance) {
+                    idx = j;
                     distance = distance_in;
-                    distance_pos = i;
                 }
-              }
-        
-            pos = distance_pos;
-         }
-        return cnt;
+            }
+            i = idx-1 ;
+        }
+        return -1;
     }
 }
