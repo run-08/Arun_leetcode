@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/run-08/Arun_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/run-08/Arun_leetcode/tree/master/2881-split-strings-by-separator) |
 | [3195-separate-black-and-white-balls](https://github.com/run-08/Arun_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
