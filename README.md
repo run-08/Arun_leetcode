@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/run-08/Arun_leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0299-bulls-and-cows](https://github.com/run-08/Arun_leetcode/tree/master/0299-bulls-and-cows) |
 | [0394-decode-string](https://github.com/run-08/Arun_leetcode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/run-08/Arun_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/run-08/Arun_leetcode/tree/master/0299-bulls-and-cows) |
 | [0398-random-pick-index](https://github.com/run-08/Arun_leetcode/tree/master/0398-random-pick-index) |
 | [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0299-bulls-and-cows](https://github.com/run-08/Arun_leetcode/tree/master/0299-bulls-and-cows) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
