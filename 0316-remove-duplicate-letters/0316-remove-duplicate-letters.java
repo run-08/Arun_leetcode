@@ -5,18 +5,20 @@ class Solution {
       HashSet<Character> hs = new HashSet<>();
       for(int i = 0;i < s.length();i++) hm.put(s.charAt(i),i);
       for(int i = 0;i < s.length();i++){
-            if(hs.contains(s.charAt(i))) continue;
-            if(stack.isEmpty() || stack.peek() < s.charAt(i)){
-                stack.push(s.charAt(i));
-                hs.add(s.charAt(i));
+            char c = s.charAt(i);
+            if(hs.contains(c)) continue;
+            if(stack.isEmpty() || stack.peek() < c){
+                stack.push(c);
+                hs.add(c);
                 continue;
             }
             while(!stack.isEmpty()){
-                if(stack.peek() < s.charAt(i) || hm.get(stack.peek()) < i) break;
-               else if (hm.get(stack.peek()) > i) hs.remove(stack.pop());
+                char peek = stack.peek();
+                if(peek < c || hm.get(peek) < i) break;
+                 hs.remove(stack.pop());
             }
-             stack.push(s.charAt(i));
-             hs.add(s.charAt(i));
+             stack.push(c);
+             hs.add(c);
         }
         String res = "";
         for(Character c : stack) res += String.valueOf(c);
