@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/run-08/Arun_leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/run-08/Arun_leetcode/tree/master/1449-print-words-vertically) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/run-08/Arun_leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/run-08/Arun_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/run-08/Arun_leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
 | [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/run-08/Arun_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/run-08/Arun_leetcode/tree/master/0299-bulls-and-cows) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/run-08/Arun_leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
