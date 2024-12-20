@@ -15,33 +15,29 @@
  */
 class Solution {
     public TreeNode reverseOddLevels(TreeNode root) {
-        Queue<List<TreeNode>> q = new LinkedList<>();
-        List<TreeNode> temp = new ArrayList<>();
-        temp.add(root);
-        q.offer(temp);
+        Queue<TreeNode> q = new LinkedList<>();
+        if(root.left == null) return root;
+        q.offer(root.left);
+        q.offer(root.right);
         while(!q.isEmpty()){
-            List<Integer> swaper = new ArrayList<>();
-            List<TreeNode> Data = q.poll();
-            List<TreeNode> Adder = new ArrayList<>();
-            for(int i = 0;i < Data.size();i++){
-                // System.out.print(Data.get(i).val);
-                 if(Data.get(i).left != null) swaper.add(Data.get(i).left.val);
-                 if(Data.get(i).right != null) swaper.add(Data.get(i).right.val);
+            List<Integer> ls = new ArrayList<>();
+            Queue<TreeNode> temp = new LinkedList<>();
+            while(!q.isEmpty()){
+                TreeNode currentnode = q.poll();
+                 ls.add(currentnode.val);
+                temp.offer(currentnode);
             }
-            int index = 0;
-            for(int i = 0;i < Data.size();i++){
-                if(Data.get(i).left != null) {
-                    Data.get(i).left.val = swaper.get(swaper.size()-(index++)-1);
-                   if(Data.get(i).left.left != null) Adder.add(Data.get(i).left.left);
-                   if(Data.get(i).left.right != null) Adder.add(Data.get(i).left.right);
+            int idx = ls.size()-1;
+            while(!temp.isEmpty()){
+                TreeNode currentnode = temp.poll();
+                currentnode.val = ls.get(idx--);
+                if(currentnode.left != null && currentnode.left.left != null ){
+                    q.offer(currentnode.left.left);
+                    q.offer(currentnode.left.right);
+                    q.offer(currentnode.right.left);
+                    q.offer(currentnode.right.right);
                 }
-             if(Data.get(i).right != null){
-                 Data.get(i).right.val = swaper.get(swaper.size()-(index++)-1);
-                 if(Data.get(i).right.left != null) Adder.add(Data.get(i).right.left);
-                   if(Data.get(i).right.right != null) Adder.add(Data.get(i).right.right);
-             }
             }
-            if(Adder.size() > 0)q.offer(new ArrayList<>(Adder));
         }
         return root;
     }
