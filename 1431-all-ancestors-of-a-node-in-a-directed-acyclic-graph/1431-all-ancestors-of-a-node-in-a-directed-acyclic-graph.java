@@ -11,7 +11,6 @@ class Solution {
         for(int i = 0;i < n;i++){
             if(!hm.containsKey(i)) res.add(new ArrayList<>());
             else {
-                // HashSet<Integer> unique_Ancestors = new HashSet<>();
                 List<Integer> Ancestors = new ArrayList<>();
                 HashSet<Integer> unique_Ancestors = dfs( i , hm , memo);
                 for(int node : unique_Ancestors) Ancestors.add(node);
@@ -30,7 +29,7 @@ class Solution {
             hs.add(node);
             if(hm.containsKey(node)) hs.addAll(dfs( node , hm , memo)); 
         }
-         memo.put(child_node ,hs);
+        memo.put(child_node ,hs);
         return hs;
    }
 }
