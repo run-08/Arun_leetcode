@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/run-08/Arun_leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/run-08/Arun_leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [3189-find-champion-ii](https://github.com/run-08/Arun_leetcode/tree/master/3189-find-champion-ii) |
 ## Linked List
 |  |
 | ------- |
