@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/run-08/Arun_leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/run-08/Arun_leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/run-08/Arun_leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/run-08/Arun_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/run-08/Arun_leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/run-08/Arun_leetcode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/run-08/Arun_leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/run-08/Arun_leetcode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
