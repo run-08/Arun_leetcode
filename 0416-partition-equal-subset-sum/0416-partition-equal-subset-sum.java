@@ -8,13 +8,10 @@ class Solution {
          return partition(nums , nums.length-1 , dp,target);
     }
      public boolean partition(int[] nums , int idx , Boolean[][] dp , int target) {
-		//  System.out.println(idx+" "+target);
 		 if(target == 0) return true;
 		 if(idx < 0  || target  < 0) return false;
 		 if(dp[idx][target] != null) return dp[idx][target];
-		 boolean exclude =  partition(nums , idx-1 , dp , target);
-		 boolean include = partition(nums , idx-1 , dp , target-nums[idx]);
-		 dp[idx][target] = exclude || include;
+		  dp[idx][target] =  partition(nums , idx-1 , dp , target) || partition(nums , idx-1 , dp , target-nums[idx]);
 		 return dp[idx][target];
 	 }
 }
