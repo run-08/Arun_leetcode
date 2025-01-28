@@ -7,7 +7,6 @@ class Solution {
                 Integer sum = 0;
                  if(visited[i][j] || grid[i][j] == 0) continue;
                   sum = bacres(grid , visited , i , j , sum);
-                //   System.out.print(sum);
                  if(sum > max) max = sum;
             }
         }
