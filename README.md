@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/run-08/Arun_leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/run-08/Arun_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/run-08/Arun_leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/run-08/Arun_leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/run-08/Arun_leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/run-08/Arun_leetcode/tree/master/3429-special-array-i) |
