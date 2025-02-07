@@ -24,7 +24,6 @@ class Solution {
             }
             else {
                 int inner_color = balls.get(ball);
-                // System.out.print(colors);
                 balls.put(ball , color);
                 if(colors.get(inner_color) == 1) {
                       freq--;
