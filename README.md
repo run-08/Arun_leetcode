@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/run-08/Arun_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/run-08/Arun_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+| [3447-clear-digits](https://github.com/run-08/Arun_leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/run-08/Arun_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/run-08/Arun_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Hash Table
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/run-08/Arun_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/run-08/Arun_leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/run-08/Arun_leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/run-08/Arun_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/run-08/Arun_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/run-08/Arun_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/run-08/Arun_leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/run-08/Arun_leetcode/tree/master/3447-clear-digits) |
 ## Binary Search Tree
 |  |
 | ------- |
