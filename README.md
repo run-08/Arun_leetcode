@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3206-find-common-elements-between-two-arrays](https://github.com/run-08/Arun_leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/run-08/Arun_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/run-08/Arun_leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/run-08/Arun_leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/run-08/Arun_leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3427-special-array-ii](https://github.com/run-08/Arun_leetcode/tree/master/3427-special-array-ii) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/run-08/Arun_leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/run-08/Arun_leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/run-08/Arun_leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/run-08/Arun_leetcode/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/run-08/Arun_leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/run-08/Arun_leetcode/tree/master/3447-clear-digits) |
@@ -782,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/run-08/Arun_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/run-08/Arun_leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/run-08/Arun_leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/run-08/Arun_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Quickselect
 |  |
