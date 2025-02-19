@@ -7,8 +7,7 @@ class Solution {
     }
     public void bacres(String s , List<String> res , int n ){
          if(s.length() == n){
-            // System.out.print(s);
-            res.add(new String(s));
+            res.add(s);
             return;
          }
          int len = s.length();
