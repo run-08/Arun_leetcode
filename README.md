@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1449-print-words-vertically](https://github.com/run-08/Arun_leetcode/tree/master/1449-print-words-vertically) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/run-08/Arun_leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/run-08/Arun_leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/run-08/Arun_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -706,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/run-08/Arun_leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/run-08/Arun_leetcode/tree/master/0216-combination-sum-iii) |
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/run-08/Arun_leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/run-08/Arun_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/run-08/Arun_leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/run-08/Arun_leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
