@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/run-08/Arun_leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/run-08/Arun_leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/run-08/Arun_leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/run-08/Arun_leetcode/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/run-08/Arun_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/run-08/Arun_leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/run-08/Arun_leetcode/tree/master/0871-keys-and-rooms) |
 | [0975-range-sum-of-bst](https://github.com/run-08/Arun_leetcode/tree/master/0975-range-sum-of-bst) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -585,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/run-08/Arun_leetcode/tree/master/0832-binary-tree-pruning) |
 | [0975-range-sum-of-bst](https://github.com/run-08/Arun_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
