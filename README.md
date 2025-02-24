@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/run-08/Arun_leetcode/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/run-08/Arun_leetcode/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/run-08/Arun_leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/run-08/Arun_leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/run-08/Arun_leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/run-08/Arun_leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/run-08/Arun_leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/run-08/Arun_leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/run-08/Arun_leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/run-08/Arun_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/run-08/Arun_leetcode/tree/master/0189-rotate-array) |
