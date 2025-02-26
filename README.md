@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0566-reshape-the-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/run-08/Arun_leetcode/tree/master/0648-replace-words) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/run-08/Arun_leetcode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
 | [0906-walking-robot-simulation](https://github.com/run-08/Arun_leetcode/tree/master/0906-walking-robot-simulation) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/run-08/Arun_leetcode/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/run-08/Arun_leetcode/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
