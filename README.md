@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/run-08/Arun_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/run-08/Arun_leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/run-08/Arun_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/run-08/Arun_leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -722,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/run-08/Arun_leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
