@@ -1,31 +1,31 @@
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> res = new ArrayList<>();
-        right(0,matrix.length-1,0,matrix[0].length-1,res,matrix);
+        left(matrix , 0 , matrix.length-1 , 0 , matrix[0].length-1, res);
         return res;
     }
-    public void right(int rowstart,int rowend,int colstart,int colend,List<Integer> ls,int[][] arr){
-        if(rowstart > rowend || colstart > colend) return;
-        for(int i = colstart;i <= colend;i++) ls.add(arr[rowstart][i]);
-        rowstart++;
-        down(rowstart,rowend,colstart,colend,ls,arr);
-    }
-    public void down(int rowstart,int rowend,int colstart,int colend,List<Integer> ls,int[][] arr){
-        if(rowstart > rowend || colstart > colend) return;
-        for(int i = rowstart;i <= rowend;i++) ls.add(arr[i][colend]);
-        colend--;
-        left(rowstart,rowend,colstart,colend,ls,arr);
-    }
-    public void left(int rowstart,int rowend,int colstart,int colend,List<Integer> ls,int[][] arr){
-        if(rowstart > rowend || colstart > colend) return;
-        for(int i = colend;i >= colstart;i--) ls.add(arr[rowend][i]);
-        rowend--;
-        up(rowstart,rowend,colstart,colend,ls,arr);
-    }
-    public void up(int rowstart,int rowend,int colstart,int colend,List<Integer> ls,int[][] arr){
-        if(rowstart > rowend || colstart > colend) return;
-        for(int i = rowend;i >= rowstart;i--) ls.add(arr[i][colstart]);
-        colstart++;
-        right(rowstart,rowend,colstart,colend,ls,arr);
-    }
+    public void left (int[][]arr , int t , int b , int lc , int rc , List<Integer> ls) {
+		   if(t > b || rc < lc ) return;
+		    for(int  i =  lc;i <= rc;i++) ls.add(arr[t][i]);
+			t++;
+			down(arr , t , b , lc , rc , ls);
+	}
+	 public void down(int[][] arr , int t , int b , int lc , int rc , List<Integer> ls) {
+		if(t > b || rc < lc ) return;
+		for(int i = t;i <= b;i++) ls.add(arr[i][rc]);
+		rc--;
+		right(arr , t , b , lc , rc , ls);
+	}
+    public void right(int[][] arr , int t , int b , int lc , int rc , List<Integer> ls) {
+		if(t > b || rc < lc ) return;
+		for(int i = rc;i >= lc;i--) ls.add(arr[b][i]);
+		 b--;
+		 top(arr , t , b , lc , rc , ls);
+	}
+	 public void top(int[][] arr , int t , int b , int lc , int rc , List<Integer> ls) {
+		if(t > b || rc < lc ) return;
+		for(int i = b;i >= t;i--) ls.add(arr[i][lc]);
+		lc++;
+		left(arr , t , b , lc , rc , ls);
+	}
 }
