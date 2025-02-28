@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/run-08/Arun_leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1923-sentence-similarity-iii](https://github.com/run-08/Arun_leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/run-08/Arun_leetcode/tree/master/1954-replace-all-digits-with-characters) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/run-08/Arun_leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1970-sorting-the-sentence](https://github.com/run-08/Arun_leetcode/tree/master/1970-sorting-the-sentence) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/run-08/Arun_leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/run-08/Arun_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/run-08/Arun_leetcode/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/run-08/Arun_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/run-08/Arun_leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Prefix Sum
 |  |
 | ------- |
