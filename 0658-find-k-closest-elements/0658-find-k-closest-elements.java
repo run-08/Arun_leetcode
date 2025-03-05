@@ -1,15 +1,15 @@
 class Solution {
     public List<Integer> findClosestElements(int[] arr, int k, int x) {
-        Deque<Integer> ls = new ArrayDeque<>();
+        List<Integer> ls = new ArrayList<>();
         for(int i= 0;i < k;i++) ls.add(arr[i]);
         int n = arr.length;
         for(int i  = k;i < n;i++){
-            int start = ls.peek();
+            int start = ls.get(0);
             if((Math.abs(start - x) > Math.abs(arr[i] - x))){
-                ls.removeFirst();
+                ls.remove(0);
                 ls.add(arr[i]);
             }
         }
-        return new ArrayList<>(ls);
+        return ls;
     }
 }
