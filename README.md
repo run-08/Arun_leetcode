@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/run-08/Arun_leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/run-08/Arun_leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/run-08/Arun_leetcode/tree/master/0012-integer-to-roman) |
 | [0032-longest-valid-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/run-08/Arun_leetcode/tree/master/0179-largest-number) |
