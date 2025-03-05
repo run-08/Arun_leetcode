@@ -1,34 +1,39 @@
-
-import java.math.BigInteger;
-
 class Solution {
     public int myAtoi(String s) {
         s = s.trim();
-        if (s.equals("")) return 0;
-
-        StringBuffer sb = new StringBuffer(s);
-        int i = 0;
+        if(s.equals("")) return 0;
+        boolean isNegative = (s.charAt(0) == '-') ? true : false;
+        if(s.charAt(0) =='+' || s.charAt(0) == '-') s = s.substring(1);
         String res = "";
-
-        if (sb.charAt(0) == '-' || sb.charAt(0) == '+') {
-            i = 1;
-            if (sb.charAt(0) == '-') res += "-";
+        int n = s.length();
+        boolean init = true;
+        for(int i = 0;i < n;i++){
+            if(s.charAt(i) == '-' || s.charAt(i) == '+') break;
+            if(s.charAt(i) == ' ' || (s.charAt(i) >= 97 && s.charAt(i) <= 122) || s.charAt(i) == '-' || s.charAt(i) == '.' ) break;
+            else {
+                if(s.charAt(i) == '0' && init) continue;
+                res += Character.getNumericValue(s.charAt(i));
+                init = false;
+            }
         }
-
-        for (i = i; i < sb.length(); i++) {
-            if (!Character.isDigit(sb.charAt(i))) break;
-            res += sb.charAt(i);
+        int result = 0;
+        if(res.length() > 0 && res.length() <= 10){
+                long dig = Long.parseLong(res);
+                if(isNegative) dig = -dig;
+                if(dig >= Integer.MAX_VALUE) result = Integer.MAX_VALUE;
+                else if(dig <= Integer.MIN_VALUE) result = Integer.MIN_VALUE;
+                else {
+                    result = Integer.parseInt(res);
+                    if(isNegative) result = -result;
+                }
+                }
+        else {
+            if(res.length() > 10) {
+                if(!isNegative)result = Integer.MAX_VALUE;
+                else result = Integer.MIN_VALUE;
+            }
+            else result = 0;
         }
-
-        if (res.isEmpty() || res.equals("-")) return 0;
-
-        BigInteger bigInt = new BigInteger(res);
-        BigInteger intMax = BigInteger.valueOf(Integer.MAX_VALUE);
-        BigInteger intMin = BigInteger.valueOf(Integer.MIN_VALUE);
-
-        if (bigInt.compareTo(intMax) > 0) return Integer.MAX_VALUE;
-        if (bigInt.compareTo(intMin) < 0) return Integer.MIN_VALUE;
-
-        return bigInt.intValue();
+        return result;
     }
 }
