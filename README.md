@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2610-closest-prime-numbers-in-range](https://github.com/run-08/Arun_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/run-08/Arun_leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2752-sum-multiples](https://github.com/run-08/Arun_leetcode/tree/master/2752-sum-multiples) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/run-08/Arun_leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/run-08/Arun_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/run-08/Arun_leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Backtracking
 |  |
