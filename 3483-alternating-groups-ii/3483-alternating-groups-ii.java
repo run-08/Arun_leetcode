@@ -12,7 +12,7 @@ class Solution {
             i = k;
         }
         else move = 1;
-        System.out.print(idx);
+        // System.out.print(idx);
         while(true){
             if(i >= n){
                 move++;
