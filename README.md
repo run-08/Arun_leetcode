@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/run-08/Arun_leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/run-08/Arun_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/run-08/Arun_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
 | [3533-snake-in-matrix](https://github.com/run-08/Arun_leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/run-08/Arun_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/run-08/Arun_leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -737,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/run-08/Arun_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/run-08/Arun_leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/run-08/Arun_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
 | ------- |
