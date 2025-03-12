@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/run-08/Arun_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 | [2881-split-strings-by-separator](https://github.com/run-08/Arun_leetcode/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/run-08/Arun_leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/run-08/Arun_leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -749,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/run-08/Arun_leetcode/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/run-08/Arun_leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/run-08/Arun_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 | [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/run-08/Arun_leetcode/tree/master/0729-my-calendar-i) |
 | [2447-merge-similar-items](https://github.com/run-08/Arun_leetcode/tree/master/2447-merge-similar-items) |
+| [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 ## Queue
 |  |
 | ------- |
@@ -933,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/run-08/Arun_leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -954,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/run-08/Arun_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/run-08/Arun_leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/run-08/Arun_leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/run-08/Arun_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/run-08/Arun_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -985,4 +990,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
