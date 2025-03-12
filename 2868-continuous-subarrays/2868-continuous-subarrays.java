@@ -1,58 +1,66 @@
 class Solution {
     public long continuousSubarrays(int[] nums) {
-       int cur = 1 ,  max = nums[0] , min = nums[0] , n = nums.length;
+       int cur = 1 ,  max = nums[0] , min = nums[0] , n = nums.length , min_index = 0 , max_index = 0;
        long res = 1;
-       HashMap<Integer , Integer> idxes = new HashMap<>();
-       idxes.put(nums[0] , 0);
        for(int i = 1;i < n ;i++){
            if(Math.abs(max-nums[i]) > 2){
-            int idx = idxes.get(max);
+            int idx = max_index;
             min = Integer.MAX_VALUE;
              max = Integer.MIN_VALUE;
-             idxes.clear();
              cur = 0;
                for(;idx <= i;idx++){
                    if(Math.abs(nums[idx] - nums[i]) > 2){
                     cur = 0;
-                    idxes.clear();
                     min = Integer.MAX_VALUE;
                     max = Integer.MIN_VALUE;
                    }
                    else {
-                      cur++;
-                      min = Math.min(min , nums[idx]);
-                      max = Math.max(max , nums[idx]);
-                      idxes.put(nums[idx] , idx);
+                     cur++;
+                    if(min > nums[idx]){
+                        min_index = idx;
+                        min = nums[idx];
+                    }
+                    if(max < nums[idx]) {
+                        max_index = idx;
+                        max = nums[idx];
+                    }
                    }
                }
-               System.out.println();
            }
            else if(Math.abs(min - nums[i]) > 2){
-             int idx = idxes.get(min);
+             int idx = min_index;
              min = Integer.MAX_VALUE;
              max = Integer.MIN_VALUE;
-             idxes.clear();
              cur = 0;
                for(;idx <= i;idx++){
                    if(Math.abs(nums[idx] - nums[i]) > 2){
                     cur = 0;
-                    idxes.clear();
                     min = Integer.MAX_VALUE;
                     max = Integer.MIN_VALUE;
                    }
                    else {
                       cur++;
-                      min = (nums[idx] < min) ? nums[idx] : min;
-                      max = (nums[idx] > max) ? nums[idx] : max;
-                      idxes.put(nums[idx] , idx);
+                    if(min > nums[idx]){
+                        min_index = idx;
+                        min = nums[idx];
+                    }
+                    if(max < nums[idx]) {
+                        max_index = idx;
+                        max = nums[idx];
+                    }
                    }
                }
            }
            else {
             cur++;
-            if(max < nums[i]) max = nums[i];
-            else if(min > nums[i]) min = nums[i];
-            idxes.put(nums[i] , i);
+            if(max < nums[i]){
+                 max = nums[i];
+                 max_index = i;
+            }
+            else if(min > nums[i]) {
+                min = nums[i];
+                min_index = i;
+            }
            }
            res += cur;
        }
