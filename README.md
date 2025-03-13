@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 | [2881-split-strings-by-separator](https://github.com/run-08/Arun_leetcode/tree/master/2881-split-strings-by-separator) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/run-08/Arun_leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/run-08/Arun_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/run-08/Arun_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/run-08/Arun_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/run-08/Arun_leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/run-08/Arun_leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/run-08/Arun_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
