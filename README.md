@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/run-08/Arun_leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/run-08/Arun_leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/run-08/Arun_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/run-08/Arun_leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
 | [3533-snake-in-matrix](https://github.com/run-08/Arun_leetcode/tree/master/3533-snake-in-matrix) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/run-08/Arun_leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2659-number-of-even-and-odd-bits](https://github.com/run-08/Arun_leetcode/tree/master/2659-number-of-even-and-odd-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/run-08/Arun_leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/run-08/Arun_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
@@ -763,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/run-08/Arun_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/run-08/Arun_leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
 ## Prefix Sum
 |  |
@@ -784,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/run-08/Arun_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/run-08/Arun_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/run-08/Arun_leetcode/tree/master/3427-special-array-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/run-08/Arun_leetcode/tree/master/3639-zero-array-transformation-i) |
 ## Matrix
 |  |
@@ -950,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
