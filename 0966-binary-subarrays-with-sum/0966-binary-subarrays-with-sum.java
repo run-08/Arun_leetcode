@@ -5,7 +5,6 @@ class Solution {
         for(int i = 0;i < n;i++) {
             sum += nums[i];
             if(nums[i] == 0) {
-                System.out.print(cur+" "+i+"\n");
                 if(sum == goal) res += cur+1;
                 else if(idx == -1) cur++;
             }
