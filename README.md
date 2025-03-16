@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/run-08/Arun_leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1310-watering-plants](https://github.com/run-08/Arun_leetcode/tree/master/1310-watering-plants) |
 | [1370-count-number-of-nice-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/run-08/Arun_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1185-find-in-mountain-array) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/run-08/Arun_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/run-08/Arun_leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1370-count-number-of-nice-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -387,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/run-08/Arun_leetcode/tree/master/0778-reorganize-string) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
