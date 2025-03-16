@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/run-08/Arun_leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0413-arithmetic-slices](https://github.com/run-08/Arun_leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/run-08/Arun_leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/run-08/Arun_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
@@ -765,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/run-08/Arun_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/run-08/Arun_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/run-08/Arun_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/run-08/Arun_leetcode/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/run-08/Arun_leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/run-08/Arun_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/run-08/Arun_leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/run-08/Arun_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0413-arithmetic-slices](https://github.com/run-08/Arun_leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/run-08/Arun_leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/run-08/Arun_leetcode/tree/master/0518-coin-change-ii) |
