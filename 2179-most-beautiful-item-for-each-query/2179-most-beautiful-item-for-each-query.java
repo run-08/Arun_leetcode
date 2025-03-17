@@ -9,7 +9,7 @@ class Solution {
            hm.put(items[i][0] , max);
         }
         Collections.sort(ls);
-        n = queries.length;
+        n   = queries.length;
         int[] res = new int[n];
         n = ls.size();
         int max = 0;
