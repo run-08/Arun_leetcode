@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/run-08/Arun_leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/run-08/Arun_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/run-08/Arun_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/run-08/Arun_leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/run-08/Arun_leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/run-08/Arun_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/run-08/Arun_leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1970-sorting-the-sentence](https://github.com/run-08/Arun_leetcode/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/run-08/Arun_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/run-08/Arun_leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/run-08/Arun_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2447-merge-similar-items](https://github.com/run-08/Arun_leetcode/tree/master/2447-merge-similar-items) |
