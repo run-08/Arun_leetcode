@@ -17,7 +17,6 @@ class Solution {
     List<Integer> array = new ArrayList<>();
     public List<List<Integer>> closestNodes(TreeNode root, List<Integer> queries) {
         dfs(root);
-        //System.out.print(array);
         List<List<Integer>> res = new ArrayList<>();
         int n = array.size();
         for(int data : queries){
