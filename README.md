@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/run-08/Arun_leetcode/tree/master/2107-find-unique-binary-string) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/run-08/Arun_leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2187-vowels-of-all-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2232-adding-spaces-to-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/run-08/Arun_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/run-08/Arun_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/run-08/Arun_leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/run-08/Arun_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2155-find-missing-observations](https://github.com/run-08/Arun_leetcode/tree/master/2155-find-missing-observations) |
+| [2187-vowels-of-all-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/run-08/Arun_leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/run-08/Arun_leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2187-vowels-of-all-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/run-08/Arun_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -1045,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/run-08/Arun_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2187-vowels-of-all-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Reservoir Sampling
 |  |
