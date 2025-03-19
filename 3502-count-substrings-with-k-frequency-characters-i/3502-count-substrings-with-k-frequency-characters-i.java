@@ -6,19 +6,13 @@ class Solution {
         for(int i = 0;i < n;i++) {
             char c = s.charAt(i);
             int idx = c-97;
-            if(hm.containsKey(c)) hm.get(c).add(i);
-            else {
-                Deque<Integer> ls = new LinkedList<>();
-                ls.add(i);
-                hm.put(c , new LinkedList<>(ls));
-            }
+            hm.computeIfAbsent(c , key -> new LinkedList<>()).add(i);
             if(freq[idx]) {
                 hm.get(c).pollFirst();
                 max = Math.max(hm.get(c).peekFirst()+1 , max);
             }
             else {
-                int size = hm.get(c).size();
-                if(size == k) {
+                if(hm.get(c).size() == k) {
                    freq[idx] = true;
                    max = Math.max(hm.get(c).peekFirst()+1 , max);
                 }
