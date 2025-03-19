@@ -18,7 +18,6 @@ class Solution {
                 sum -= nums[idx];
                 hs.remove(nums[idx++]);
             }
-            // System.out.print(i+" "+ hs+"\n");
         }
         return res;
     }
