@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/run-08/Arun_leetcode/tree/master/3447-clear-digits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/run-08/Arun_leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/run-08/Arun_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/run-08/Arun_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/run-08/Arun_leetcode/tree/master/3533-snake-in-matrix) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/run-08/Arun_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Hash Table
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/run-08/Arun_leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/run-08/Arun_leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/run-08/Arun_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/run-08/Arun_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 ## Sorting
 |  |
 | ------- |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/run-08/Arun_leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
+| [3502-count-substrings-with-k-frequency-characters-i](https://github.com/run-08/Arun_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/run-08/Arun_leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
