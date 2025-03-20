@@ -3,6 +3,7 @@ class Solution {
     public int minDays(int[] bloomDay, int m_days, int k) {
         b = m_days;
         f = k;
+        if(((long)m_days * (long)k) > bloomDay.length) return -1;
         int s = Integer.MAX_VALUE , e = Integer.MIN_VALUE , res = s;
         for(int val : bloomDay) {
             s = Math.min(s , val);
