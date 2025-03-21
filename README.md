@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/run-08/Arun_leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/run-08/Arun_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/run-08/Arun_leetcode/tree/master/0749-shortest-completing-word) |
+| [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0824-number-of-lines-to-write-string](https://github.com/run-08/Arun_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/run-08/Arun_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/run-08/Arun_leetcode/tree/master/0729-my-calendar-i) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/run-08/Arun_leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/run-08/Arun_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1185-find-in-mountain-array) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/run-08/Arun_leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/run-08/Arun_leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/run-08/Arun_leetcode/tree/master/0800-letter-case-permutation) |
+| [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0824-number-of-lines-to-write-string](https://github.com/run-08/Arun_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0878-shifting-letters](https://github.com/run-08/Arun_leetcode/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/run-08/Arun_leetcode/tree/master/0749-shortest-completing-word) |
 | [0768-partition-labels](https://github.com/run-08/Arun_leetcode/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/run-08/Arun_leetcode/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [0906-walking-robot-simulation](https://github.com/run-08/Arun_leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/run-08/Arun_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/run-08/Arun_leetcode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0778-reorganize-string](https://github.com/run-08/Arun_leetcode/tree/master/0778-reorganize-string) |
+| [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
@@ -893,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/run-08/Arun_leetcode/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/run-08/Arun_leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/run-08/Arun_leetcode/tree/master/0647-palindromic-substrings) |
+| [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [1170-shortest-common-supersequence](https://github.com/run-08/Arun_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -989,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/run-08/Arun_leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0648-replace-words](https://github.com/run-08/Arun_leetcode/tree/master/0648-replace-words) |
+| [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/run-08/Arun_leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/run-08/Arun_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
