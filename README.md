@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/run-08/Arun_leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/run-08/Arun_leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/run-08/Arun_leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/run-08/Arun_leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/run-08/Arun_leetcode/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2187-vowels-of-all-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2187-vowels-of-all-substrings) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/run-08/Arun_leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/run-08/Arun_leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/run-08/Arun_leetcode/tree/master/2107-find-unique-binary-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/run-08/Arun_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2406-decode-the-message](https://github.com/run-08/Arun_leetcode/tree/master/2406-decode-the-message) |
 | [2442-number-of-arithmetic-triplets](https://github.com/run-08/Arun_leetcode/tree/master/2442-number-of-arithmetic-triplets) |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/run-08/Arun_leetcode/tree/master/0871-keys-and-rooms) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/run-08/Arun_leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [3189-find-champion-ii](https://github.com/run-08/Arun_leetcode/tree/master/3189-find-champion-ii) |
 ## Linked List
@@ -1076,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Monotonic Queue
 |  |
 | ------- |
