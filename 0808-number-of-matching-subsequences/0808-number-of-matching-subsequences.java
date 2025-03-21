@@ -6,7 +6,6 @@ class Solution {
         int n = s.length();
         int cnt = 0;
         for(int i = 0;i < n;i++) indices.computeIfAbsent(s.charAt(i) , k -> new ArrayList<>()).add(i);
-        // System.out.print(indices);
         for(String word : words) {
             n = word.length();
             if(indices.containsKey(word.charAt(0))) target = indices.get(word.charAt(0)).get(0);
@@ -17,7 +16,6 @@ class Solution {
                     flag = false;
                     break;
                  }
-                //  System.out.print(" "+i+" "+target+"\n");
             }
             if(flag) cnt++;
         }
@@ -34,7 +32,6 @@ class Solution {
             else e = m - 1;
         }
         if(s >= size) return false;
-        // System.out.print(indexes.get(s));
         target = indexes.get(s);
         return true;
     }
