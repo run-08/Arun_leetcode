@@ -8,7 +8,6 @@ class Solution {
         for(int[] arr : connections) union(arr[0] , arr[1]);
         HashSet<Integer> hs = new HashSet<>();
         for(int i = 0;i < n;i++) hs.add(find(i));
-        // System.out.print(Arrays.toString(parent));
         return hs.size()-1;
     }
     public void union(int node1 , int node2) {
