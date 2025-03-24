@@ -23,7 +23,7 @@ class Solution {
                 max = meetings[i][1];
             } 
         }
-        for(int[] nums : meetings) System.out.print(Arrays.toString(nums));
+        // for(int[] nums : meetings) System.out.print(Arrays.toString(nums));
         res += (days-max);
         return res;
     }
