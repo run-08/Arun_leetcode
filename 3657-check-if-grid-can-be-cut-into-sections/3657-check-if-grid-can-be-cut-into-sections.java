@@ -24,7 +24,6 @@ class Solution {
         }
         if(cnt >= 3) return true;
         max = y[0][1];
-        System.out.print(cnt);
         cnt = 1;
         for(int i = 1;i < size ;i++) {
             if(y[i][0] < max) max = Math.max(y[i][1] , max);
