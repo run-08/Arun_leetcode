@@ -6,7 +6,7 @@ class Solution {
             for(int val : row) ls.add(val);
         }
         Collections.sort(ls);
-        System.out.print(ls);
+        // System.out.print(ls);
         int mid_value = ls.get( ls.size() / 2 );
         for(int val : ls ){
            int complement = Math.abs(mid_value-val);
