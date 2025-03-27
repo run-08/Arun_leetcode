@@ -13,7 +13,8 @@ class Solution {
         for(;idx < n ;idx++) {
             if((cnt > (idx-cnt))) break;
             if(nums.get(idx) == high) cnt++; 
-        }
+        } 
+        // System.out.print(idx);
         cnt = 0;
         for(int i = idx;i < n;i++) if(high == nums.get(i)) cnt++;
         int target = n-idx;
