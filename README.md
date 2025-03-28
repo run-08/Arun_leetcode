@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/run-08/Arun_leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/run-08/Arun_leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/run-08/Arun_leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0436-find-right-interval](https://github.com/run-08/Arun_leetcode/tree/master/0436-find-right-interval) |
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/run-08/Arun_leetcode/tree/master/0455-assign-cookies) |
 | [0491-non-decreasing-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/run-08/Arun_leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/run-08/Arun_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/run-08/Arun_leetcode/tree/master/0436-find-right-interval) |
 | [0540-single-element-in-a-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/run-08/Arun_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/run-08/Arun_leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/run-08/Arun_leetcode/tree/master/0414-third-maximum-number) |
+| [0436-find-right-interval](https://github.com/run-08/Arun_leetcode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/run-08/Arun_leetcode/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/run-08/Arun_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
