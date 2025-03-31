@@ -20,7 +20,6 @@ class Solution {
             if(arr[temp.charAt(0)-97] == 0) unique--;
             temp = temp.substring(1,minSize);
         }
-        // System.out.print(hm);
         return max;
     }
 }
