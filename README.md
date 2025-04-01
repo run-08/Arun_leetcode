@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
 | [0518-coin-change-ii](https://github.com/run-08/Arun_leetcode/tree/master/0518-coin-change-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/run-08/Arun_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0525-contiguous-array](https://github.com/run-08/Arun_leetcode/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0454-4sum-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/run-08/Arun_leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/run-08/Arun_leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/run-08/Arun_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/run-08/Arun_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/run-08/Arun_leetcode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/run-08/Arun_leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/run-08/Arun_leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0878-shifting-letters](https://github.com/run-08/Arun_leetcode/tree/master/0878-shifting-letters) |
