@@ -11,14 +11,12 @@ class Solution {
             else value = -1;
             if(end+1 < n) p_sum[end+1] += value;
         }
-        // System.out.print(Arrays.toString(p_sum));
         int sum = 0;
         String res = "";
         for(int i = 0;i < n;i++) {
             sum += p_sum[i];
             boolean isNegative = sum < 0;
             sum = Math.abs(sum);
-            // System.out.print(sum+" ");
             if(sum == 0) {
                 res += s.charAt(i);
                 continue;
