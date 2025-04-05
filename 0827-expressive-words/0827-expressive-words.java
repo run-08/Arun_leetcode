@@ -17,7 +17,7 @@ class Solution {
                     else break;
                 }
                 if(q_freq != 0 && q_freq <= s_freq &&  ((s_freq-q_freq == 0) || (s_freq > 2))) continue;
-                else isStretchy = false;
+                isStretchy = false;
             }
             if(isStretchy && p1 == m) cnt++;
         }
