@@ -6,6 +6,7 @@ class Solution {
         Arrays.sort(difficulty);
         profit[0] = hm.get(difficulty[0]);
         for(int i = 1;i < n;i++) profit[i] = Math.max(profit[i-1] , hm.get(difficulty[i]));
+        System.out.print(Arrays.toString(profit)+" "+hm);
         for(int target : worker) {
             int s = 0 , e = n - 1;
             while(s <= e) {
