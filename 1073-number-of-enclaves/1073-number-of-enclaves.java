@@ -11,7 +11,6 @@ class Solution {
                 if(visited[i][j] || grid[i][j] == 0) continue;
                 visited[i][j] = true;
                  bfs( i , j , grid);
-                //  System.out.print(visitedOnes+" "+i+" "+j+"\n");
             }
         }
         return ones - visitedOnes;
