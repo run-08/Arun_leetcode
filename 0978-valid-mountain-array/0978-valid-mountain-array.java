@@ -1,19 +1,29 @@
 class Solution {
     public boolean validMountainArray(int[] arr) {
-       if(arr.length < 3) return false;
-       for(int i = 0;i < arr.length-1;i++){
-        if(arr[i] == arr[i+1]) return false;
-        if(arr[i] > arr[i+1])return  compute(i,arr);
-        if(i == arr.length-2) return false;
-       } 
-       return true;
-    }
-    public boolean compute(int index,int[] arr){
-        if(index == 0) return false;
-        for(int i = index;i < arr.length-1;i++) {
-            if(arr[i] == arr[i+1]) return false;
-             if(arr[i] < arr[i+1])  return false;
+        int n = arr.length;
+        if(n<3){
+            return false;
         }
-         return true;
+        int i = 0;
+        for(;i<n-1;i++){
+            if(arr[i]==arr[i+1]){
+                return false;
+            }
+            if(arr[i]>arr[i+1]){
+                break;
+            }
+        }
+        if(i==0 || i==n-1){
+            return false;
+        }
+        for(;i<n-1;i++){
+            if(arr[i]==arr[i+1]){
+                return false;
+            }
+            if(arr[i]<arr[i+1]){
+                return false;
+            }
+        }
+        return true;
     }
 }
