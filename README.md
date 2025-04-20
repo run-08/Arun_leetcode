@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1310-watering-plants](https://github.com/run-08/Arun_leetcode/tree/master/1310-watering-plants) |
+| [1331-path-with-maximum-gold](https://github.com/run-08/Arun_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/run-08/Arun_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1370-count-number-of-nice-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/run-08/Arun_leetcode/tree/master/0695-max-area-of-island) |
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
 | [1073-number-of-enclaves](https://github.com/run-08/Arun_leetcode/tree/master/1073-number-of-enclaves) |
+| [1331-path-with-maximum-gold](https://github.com/run-08/Arun_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -1093,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/run-08/Arun_leetcode/tree/master/0800-letter-case-permutation) |
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [1331-path-with-maximum-gold](https://github.com/run-08/Arun_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/run-08/Arun_leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/run-08/Arun_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/run-08/Arun_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
