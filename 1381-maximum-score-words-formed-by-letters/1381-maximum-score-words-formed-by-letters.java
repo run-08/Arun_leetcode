@@ -1,7 +1,7 @@
 class Solution {
     int[] limit = new int[26];
     public int maxScoreWords(String[] words, char[] letters, int[] score) {
-        HashSet<String> hs = new HashSet<>();
+        List<String> hs = new ArrayList<>();
         for(char c : letters) limit[c-97]++;
         int[] limits = new int[26];
         dfs(limits , hs , "" , 0 , words);
@@ -13,7 +13,7 @@ class Solution {
         }
         return max;
     }
-    public void dfs(int[] limits , HashSet<String> hs , String cur , int idx , String[] words){
+    public void dfs(int[] limits , List<String> hs , String cur , int idx , String[] words){
          if(idx == words.length){
             hs.add(cur);
             return;
