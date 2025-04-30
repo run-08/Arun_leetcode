@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/run-08/Arun_leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/run-08/Arun_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/run-08/Arun_leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/run-08/Arun_leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/run-08/Arun_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/run-08/Arun_leetcode/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/run-08/Arun_leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/run-08/Arun_leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/run-08/Arun_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1170-shortest-common-supersequence](https://github.com/run-08/Arun_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/run-08/Arun_leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1101,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [1331-path-with-maximum-gold](https://github.com/run-08/Arun_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/run-08/Arun_leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/run-08/Arun_leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/run-08/Arun_leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/run-08/Arun_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1255,4 +1260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/run-08/Arun_leetcode/tree/master/1137-height-checker) |
+## Bitmask
+|  |
+| ------- |
+| [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 <!---LeetCode Topics End-->
