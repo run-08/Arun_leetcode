@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/run-08/Arun_leetcode/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/run-08/Arun_leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/run-08/Arun_leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/run-08/Arun_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/run-08/Arun_leetcode/tree/master/1813-maximum-erasure-value) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/run-08/Arun_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/run-08/Arun_leetcode/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/run-08/Arun_leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/run-08/Arun_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/run-08/Arun_leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/run-08/Arun_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/run-08/Arun_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/run-08/Arun_leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
