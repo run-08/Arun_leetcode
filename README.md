@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1666-make-the-string-great](https://github.com/run-08/Arun_leetcode/tree/master/1666-make-the-string-great) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/run-08/Arun_leetcode/tree/master/1797-goal-parser-interpretation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/run-08/Arun_leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/run-08/Arun_leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1899-count-items-matching-a-rule](https://github.com/run-08/Arun_leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -911,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/run-08/Arun_leetcode/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/run-08/Arun_leetcode/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/run-08/Arun_leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/run-08/Arun_leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -1083,6 +1085,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/run-08/Arun_leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/run-08/Arun_leetcode/tree/master/1448-maximum-69-number) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/run-08/Arun_leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/run-08/Arun_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/run-08/Arun_leetcode/tree/master/2117-find-original-array-from-doubled-array) |
