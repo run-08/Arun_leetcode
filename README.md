@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/run-08/Arun_leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2698-find-the-array-concatenation-value](https://github.com/run-08/Arun_leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/run-08/Arun_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/run-08/Arun_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/run-08/Arun_leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/run-08/Arun_leetcode/tree/master/3189-find-champion-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/run-08/Arun_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Linked List
@@ -859,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/run-08/Arun_leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/run-08/Arun_leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/run-08/Arun_leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/run-08/Arun_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2411-spiral-matrix-iv](https://github.com/run-08/Arun_leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/run-08/Arun_leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/run-08/Arun_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1244,6 +1248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/run-08/Arun_leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/run-08/Arun_leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/run-08/Arun_leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/run-08/Arun_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1300,5 +1305,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/run-08/Arun_leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/run-08/Arun_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
