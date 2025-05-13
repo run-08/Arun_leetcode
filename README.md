@@ -788,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/run-08/Arun_leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/run-08/Arun_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/run-08/Arun_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/run-08/Arun_leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/run-08/Arun_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -874,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/run-08/Arun_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/run-08/Arun_leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1554-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/run-08/Arun_leetcode/tree/master/1554-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
@@ -916,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/run-08/Arun_leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/run-08/Arun_leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
