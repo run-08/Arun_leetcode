@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/run-08/Arun_leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/run-08/Arun_leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/run-08/Arun_leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/run-08/Arun_leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/run-08/Arun_leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/run-08/Arun_leetcode/tree/master/0204-count-primes) |
@@ -1091,6 +1092,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/run-08/Arun_leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/run-08/Arun_leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/run-08/Arun_leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/run-08/Arun_leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/run-08/Arun_leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/run-08/Arun_leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -1195,6 +1197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/run-08/Arun_leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
