@@ -19,7 +19,7 @@ class Solution {
     public void recoverTree(TreeNode root) {
         inOrderTraversal(root);
         Collections.sort(nodes);
-        System.out.print(nodes);
+        // System.out.print(nodes);
         idx = -1;
         setInOrderTraversal(root);
     }
