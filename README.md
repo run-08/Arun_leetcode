@@ -757,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/run-08/Arun_leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -805,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/run-08/Arun_leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/run-08/Arun_leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/run-08/Arun_leetcode/tree/master/0975-range-sum-of-bst) |
