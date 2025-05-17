@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/run-08/Arun_leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/run-08/Arun_leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/run-08/Arun_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/run-08/Arun_leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/run-08/Arun_leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/run-08/Arun_leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/run-08/Arun_leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/run-08/Arun_leetcode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/run-08/Arun_leetcode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/run-08/Arun_leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
@@ -550,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/run-08/Arun_leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/run-08/Arun_leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/run-08/Arun_leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/run-08/Arun_leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/run-08/Arun_leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/run-08/Arun_leetcode/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/run-08/Arun_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
