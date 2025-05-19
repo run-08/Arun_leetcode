@@ -12,7 +12,6 @@ class Solution {
         max = Math.max(val , max);
        }
        int len = min1+min2;
-    //    System.out.print(min1+" "+min2+" "+max);
        if(nums[0] == nums[1] && nums[1] == nums[2]) return "equilateral";
        if(max >= len) return "none";
          else return (nums[0] != nums[1] && nums[0] != nums[2]  && nums[1] != nums[2]) ?  "scalene" : "isosceles"; 
