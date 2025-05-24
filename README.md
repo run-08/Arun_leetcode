@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/run-08/Arun_leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/run-08/Arun_leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/run-08/Arun_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/run-08/Arun_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/run-08/Arun_leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/run-08/Arun_leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -560,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/run-08/Arun_leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/run-08/Arun_leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/run-08/Arun_leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/run-08/Arun_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/run-08/Arun_leetcode/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/run-08/Arun_leetcode/tree/master/0455-assign-cookies) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/run-08/Arun_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/run-08/Arun_leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/run-08/Arun_leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/run-08/Arun_leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/run-08/Arun_leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/run-08/Arun_leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
