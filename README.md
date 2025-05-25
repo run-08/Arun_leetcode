@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/run-08/Arun_leetcode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0535-encode-and-decode-tinyurl](https://github.com/run-08/Arun_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/run-08/Arun_leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/run-08/Arun_leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/run-08/Arun_leetcode/tree/master/0500-keyboard-row) |
 | [0525-contiguous-array](https://github.com/run-08/Arun_leetcode/tree/master/0525-contiguous-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/run-08/Arun_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/run-08/Arun_leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/run-08/Arun_leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/run-08/Arun_leetcode/tree/master/0645-set-mismatch) |
@@ -1237,6 +1239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/run-08/Arun_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/run-08/Arun_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/run-08/Arun_leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
@@ -1260,6 +1263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/run-08/Arun_leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/run-08/Arun_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
+| [0535-encode-and-decode-tinyurl](https://github.com/run-08/Arun_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/run-08/Arun_leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [0931-maximum-frequency-stack](https://github.com/run-08/Arun_leetcode/tree/master/0931-maximum-frequency-stack) |
