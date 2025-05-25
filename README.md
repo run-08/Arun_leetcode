@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [0853-most-profit-assigning-work](https://github.com/run-08/Arun_leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
 | [0875-longest-mountain-in-array](https://github.com/run-08/Arun_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0878-shifting-letters](https://github.com/run-08/Arun_leetcode/tree/master/0878-shifting-letters) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/run-08/Arun_leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1582-design-browser-history](https://github.com/run-08/Arun_leetcode/tree/master/1582-design-browser-history) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/run-08/Arun_leetcode/tree/master/2196-reverse-nodes-in-even-length-groups) |
@@ -1266,6 +1268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/run-08/Arun_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/run-08/Arun_leetcode/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/run-08/Arun_leetcode/tree/master/0931-maximum-frequency-stack) |
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/run-08/Arun_leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1288,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/run-08/Arun_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/run-08/Arun_leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
+| [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/run-08/Arun_leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
