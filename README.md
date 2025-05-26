@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/run-08/Arun_leetcode/tree/master/1813-maximum-erasure-value) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/run-08/Arun_leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/run-08/Arun_leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/run-08/Arun_leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/run-08/Arun_leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/run-08/Arun_leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/run-08/Arun_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/run-08/Arun_leetcode/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -1142,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/run-08/Arun_leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2187-vowels-of-all-substrings](https://github.com/run-08/Arun_leetcode/tree/master/2187-vowels-of-all-substrings) |
 | [2262-solving-questions-with-brainpower](https://github.com/run-08/Arun_leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1222,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/run-08/Arun_leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1359,6 +1364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/run-08/Arun_leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Monotonic Queue
 |  |
