@@ -62,7 +62,6 @@ class Solution {
         }
         oddCnt = Math.max(evenCnt , oddCnt);
         for(int i = 0;i < n;i++) tree1Color[i] += oddCnt;
-        System.out.print(Arrays.toString(tree1Color));
         return tree1Color;
     }
 }
