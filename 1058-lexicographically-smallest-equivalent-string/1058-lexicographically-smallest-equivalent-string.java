@@ -15,12 +15,12 @@ class Solution {
                  else set(freq , b , a );
             }
         }
-        String res = "";
+        StringBuilder res = new StringBuilder();
         for(char c : baseStr.toCharArray()){
             c = get(freq , c);
-            res += c;
+            res.append(c);
         }
-        return res;
+        return res.toString();
     }
     private char get(char[] freq , char c){
          while(freq[c-97] != c) c = freq[c-97];
