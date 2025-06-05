@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/run-08/Arun_leetcode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/run-08/Arun_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/run-08/Arun_leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/run-08/Arun_leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -1229,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/run-08/Arun_leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/run-08/Arun_leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/run-08/Arun_leetcode/tree/master/0794-swim-in-rising-water) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/run-08/Arun_leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/run-08/Arun_leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/run-08/Arun_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
