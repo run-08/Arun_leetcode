@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0945-snakes-and-ladders](https://github.com/run-08/Arun_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/run-08/Arun_leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0971-shortest-bridge](https://github.com/run-08/Arun_leetcode/tree/master/0971-shortest-bridge) |
 | [0978-valid-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/run-08/Arun_leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -866,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-binary-tree-pruning](https://github.com/run-08/Arun_leetcode/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/run-08/Arun_leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/run-08/Arun_leetcode/tree/master/0904-leaf-similar-trees) |
+| [0971-shortest-bridge](https://github.com/run-08/Arun_leetcode/tree/master/0971-shortest-bridge) |
 | [0975-range-sum-of-bst](https://github.com/run-08/Arun_leetcode/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/run-08/Arun_leetcode/tree/master/1073-number-of-enclaves) |
@@ -911,6 +913,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0871-keys-and-rooms](https://github.com/run-08/Arun_leetcode/tree/master/0871-keys-and-rooms) |
 | [0945-snakes-and-ladders](https://github.com/run-08/Arun_leetcode/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/run-08/Arun_leetcode/tree/master/0971-shortest-bridge) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/run-08/Arun_leetcode/tree/master/1073-number-of-enclaves) |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/run-08/Arun_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/run-08/Arun_leetcode/tree/master/0945-snakes-and-ladders) |
+| [0971-shortest-bridge](https://github.com/run-08/Arun_leetcode/tree/master/0971-shortest-bridge) |
 | [1073-number-of-enclaves](https://github.com/run-08/Arun_leetcode/tree/master/1073-number-of-enclaves) |
 | [1331-path-with-maximum-gold](https://github.com/run-08/Arun_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
