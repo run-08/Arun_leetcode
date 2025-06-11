@@ -1427,4 +1427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1211-iterator-for-combination](https://github.com/run-08/Arun_leetcode/tree/master/1211-iterator-for-combination) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/run-08/Arun_leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
