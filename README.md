@@ -773,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/run-08/Arun_leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
+| [0838-design-linked-list](https://github.com/run-08/Arun_leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -1303,6 +1304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/run-08/Arun_leetcode/tree/master/0432-all-oone-data-structure) |
 | [0535-encode-and-decode-tinyurl](https://github.com/run-08/Arun_leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/run-08/Arun_leetcode/tree/master/0729-my-calendar-i) |
+| [0838-design-linked-list](https://github.com/run-08/Arun_leetcode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/run-08/Arun_leetcode/tree/master/0931-maximum-frequency-stack) |
