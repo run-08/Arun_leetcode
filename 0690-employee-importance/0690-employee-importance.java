@@ -21,7 +21,7 @@ class Solution {
             for( int child : children ) map.computeIfAbsent( eId  , k -> new ArrayList<>()).add(child);
         }
         int totalImprovement = 0;
-        System.out.print(map+" "+mapValues+"\n");
+        // System.out.print(map+" "+mapValues+"\n");
         Queue<Integer> q = new LinkedList<>();
         q.offer(id);
         HashSet<Integer> visited = new HashSet<>();
