@@ -1309,6 +1309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [0931-maximum-frequency-stack](https://github.com/run-08/Arun_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [0969-number-of-recent-calls](https://github.com/run-08/Arun_leetcode/tree/master/0969-number-of-recent-calls) |
 | [1211-iterator-for-combination](https://github.com/run-08/Arun_leetcode/tree/master/1211-iterator-for-combination) |
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/run-08/Arun_leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -1332,6 +1333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/run-08/Arun_leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
+| [0969-number-of-recent-calls](https://github.com/run-08/Arun_leetcode/tree/master/0969-number-of-recent-calls) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/run-08/Arun_leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
@@ -1417,6 +1419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/run-08/Arun_leetcode/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/run-08/Arun_leetcode/tree/master/1582-design-browser-history) |
 ## Shortest Path
 |  |
