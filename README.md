@@ -839,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/run-08/Arun_leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/run-08/Arun_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/run-08/Arun_leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -993,6 +995,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/run-08/Arun_leetcode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -1192,6 +1195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/run-08/Arun_leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/run-08/Arun_leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
