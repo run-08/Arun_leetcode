@@ -1467,6 +1467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/run-08/Arun_leetcode/tree/master/0178-rank-scores) |
+| [0182-duplicate-emails](https://github.com/run-08/Arun_leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/run-08/Arun_leetcode/tree/master/0184-department-highest-salary) |
 | [0619-biggest-single-number](https://github.com/run-08/Arun_leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
