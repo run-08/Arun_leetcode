@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/run-08/Arun_leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/run-08/Arun_leetcode/tree/master/1073-number-of-enclaves) |
+| [1121-partition-array-for-maximum-sum](https://github.com/run-08/Arun_leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1137-height-checker](https://github.com/run-08/Arun_leetcode/tree/master/1137-height-checker) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/run-08/Arun_leetcode/tree/master/1184-car-pooling) |
@@ -1197,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0875-longest-mountain-in-array](https://github.com/run-08/Arun_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/run-08/Arun_leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1121-partition-array-for-maximum-sum](https://github.com/run-08/Arun_leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1170-shortest-common-supersequence](https://github.com/run-08/Arun_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
