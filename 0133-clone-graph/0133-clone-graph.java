@@ -29,9 +29,7 @@ class Solution {
           if(map.containsKey(node)) return map.get(node);
           Node copiedNode = new Node(node.val);
           map.put(node , copiedNode);
-          List<Node> neighbors = new ArrayList<>();
-          for( Node child : node.neighbors) neighbors.add(dfs( child ));
-          copiedNode.neighbors = new ArrayList<>(neighbors);
+          for( Node child : node.neighbors) copiedNode.neighbors.add(dfs( child ));
           return copiedNode;
     }
 }
