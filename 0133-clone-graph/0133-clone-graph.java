@@ -23,16 +23,14 @@ class Solution {
     public Node cloneGraph(Node node) {
         if(node == null) return null;
         map = new HashMap<>();
-        return  dfs(  node);
+        return  dfs(node);
     }
     private Node dfs( Node node) {
           if(map.containsKey(node)) return map.get(node);
           Node copiedNode = new Node(node.val);
           map.put(node , copiedNode);
           List<Node> neighbors = new ArrayList<>();
-          for( Node child : node.neighbors) {
-             neighbors.add(dfs( child ));
-          }
+          for( Node child : node.neighbors) neighbors.add(dfs( child ));
           copiedNode.neighbors = new ArrayList<>(neighbors);
           return copiedNode;
     }
