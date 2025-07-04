@@ -1,18 +1,24 @@
 class Solution {
-    public int findCircleNum(int[][] arr) {
-       int[] count ={0};
-       HashSet<Integer> hs = new HashSet<>();
-       for(int i = 0;i < arr.length;i++) dfs(arr,i,count,hs);
-        return count[0];
-    }
-    public void dfs(int[][] arr,int index,int[] count,HashSet<Integer> hs){
-           if(!hs.contains(index)) count[0] += 1;
-            for(int j = 0;j < arr[index].length;j++){
-                if(arr[index][j] == 0 || hs.contains(j)) continue;
-                else{ 
-                    hs.add(j);
-                    dfs(arr,j,count,hs);
-                }
+    public int findCircleNum(int[][] isConnected) {
+        int vertices = isConnected.length , ConnectedGraphsCount = 0;
+        boolean[] visited = new boolean[vertices];
+        for( int vertice = 0;vertice < vertices;vertice++) {
+            if(visited[vertice]) continue;
+            visited[vertice] = true;
+            Queue<Integer> q = new ArrayDeque<>();
+            q.offer(vertice);
+            while(!q.isEmpty()) {
+                int node = q.poll();
+                int[] nodeChildren = isConnected[node];
+                for( int i = 0;i < vertices;i++) {
+                    if( nodeChildren[i] == 1 && !visited[i] ){
+                        visited[i] = true;
+                        q.offer(i);
+                    }
+                } 
             }
+            ConnectedGraphsCount++;
+        }
+        return ConnectedGraphsCount;
     }
 }
