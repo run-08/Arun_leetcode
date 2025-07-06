@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/run-08/Arun_leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/run-08/Arun_leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/run-08/Arun_leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/run-08/Arun_leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/run-08/Arun_leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2027-maximum-number-of-removable-characters](https://github.com/run-08/Arun_leetcode/tree/master/2027-maximum-number-of-removable-characters) |
 | [2048-build-array-from-permutation](https://github.com/run-08/Arun_leetcode/tree/master/2048-build-array-from-permutation) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/run-08/Arun_leetcode/tree/master/1813-maximum-erasure-value) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/run-08/Arun_leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/run-08/Arun_leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/run-08/Arun_leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/run-08/Arun_leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -1361,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/run-08/Arun_leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1582-design-browser-history](https://github.com/run-08/Arun_leetcode/tree/master/1582-design-browser-history) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/run-08/Arun_leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Segment Tree
 |  |
 | ------- |
