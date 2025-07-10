@@ -20,18 +20,18 @@ class Solution {
                     coloredNodes [ node - 1 ] = color;
                     break;
                 }
-                for ( int child : children ) {
-                    if ( flowerType [ coloredNodes [ child - 1 ] ] )  continue;
-                    else {
-                        for ( int color = 1 ; color <= 4 ; color++ ) {
-                            if ( !flowerType [ color ] )  {
-                                flowerType [ coloredNodes [ child - 1 ] ]  = true;
-                                coloredNodes [ child - 1 ] = color; 
-                            }
-                            q.offer ( child );
-                        }
-                    }
-                }
+                // for ( int child : children ) {
+                //     if ( flowerType [ coloredNodes [ child - 1 ] ] )  continue;
+                //     else {
+                //         for ( int color = 1 ; color <= 4 ; color++ ) {
+                //             if ( !flowerType [ color ] )  {
+                //                 flowerType [ coloredNodes [ child - 1 ] ]  = true;
+                //                 coloredNodes [ child - 1 ] = color; 
+                //             }
+                //             q.offer ( child );
+                //         }
+                //     }
+                // }
             }
         }
         return coloredNodes;
