@@ -33,6 +33,7 @@ class CBTInserter {
     
     public int insert(int val) {
         TreeNode topNode = childNodes.peek();
+        // System.out.print (topNode.val +"\n");
         if ( topNode.left == null ) topNode.left = new TreeNode ( val );
         else {
             topNode.right = new TreeNode ( val );
