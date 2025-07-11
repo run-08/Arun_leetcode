@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/run-08/Arun_leetcode/tree/master/1184-car-pooling) |
 | [1185-find-in-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1185-find-in-mountain-array) |
 | [1206-corporate-flight-bookings](https://github.com/run-08/Arun_leetcode/tree/master/1206-corporate-flight-bookings) |
+| [1207-delete-nodes-and-return-forest](https://github.com/run-08/Arun_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/run-08/Arun_leetcode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/run-08/Arun_leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/run-08/Arun_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/run-08/Arun_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/run-08/Arun_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/run-08/Arun_leetcode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/run-08/Arun_leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
+| [1207-delete-nodes-and-return-forest](https://github.com/run-08/Arun_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/run-08/Arun_leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/run-08/Arun_leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -1029,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1207-delete-nodes-and-return-forest](https://github.com/run-08/Arun_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/run-08/Arun_leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
