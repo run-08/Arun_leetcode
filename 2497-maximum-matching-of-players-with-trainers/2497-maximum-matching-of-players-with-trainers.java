@@ -1,15 +1,15 @@
 class Solution {
     public int matchPlayersAndTrainers(int[] players, int[] trainers) {
-        Arrays.sort(players);
-        Arrays.sort(trainers);
-        int count = 0;
-        int idx = trainers.length-1;
-        for(int i = players.length-1;idx >= 0 && i >= 0;i--){
-            if(players[i] <= trainers[idx]) {
-                count++;
-                idx--;
+        Arrays.sort ( players );
+        Arrays.sort ( trainers );
+        int playersLength = players.length , trainersLength = trainers.length;
+        int matchedPlayersAndTrainersCount = 0  , playersIndex = 0;
+        for ( int index = 0 ; index < trainersLength && playersIndex < playersLength ; index++ ){
+            if ( trainers [ index ] >= players [ playersIndex ] ) {
+                matchedPlayersAndTrainersCount++;
+                playersIndex++;
             }
         }
-        return count;
+        return matchedPlayersAndTrainersCount;
     }
 }
