@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/run-08/Arun_leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/run-08/Arun_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2664-maximize-greatness-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/run-08/Arun_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/run-08/Arun_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/run-08/Arun_leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/run-08/Arun_leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2664-maximize-greatness-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/run-08/Arun_leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3321-type-of-triangle](https://github.com/run-08/Arun_leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/run-08/Arun_leetcode/tree/master/3430-count-days-without-meetings) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/run-08/Arun_leetcode/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/run-08/Arun_leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2664-maximize-greatness-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/run-08/Arun_leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/run-08/Arun_leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/run-08/Arun_leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -1282,6 +1285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/run-08/Arun_leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/run-08/Arun_leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/run-08/Arun_leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2664-maximize-greatness-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/run-08/Arun_leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3195-separate-black-and-white-balls](https://github.com/run-08/Arun_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/run-08/Arun_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
