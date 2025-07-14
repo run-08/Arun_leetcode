@@ -1525,6 +1525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/run-08/Arun_leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/run-08/Arun_leetcode/tree/master/0184-department-highest-salary) |
 | [0619-biggest-single-number](https://github.com/run-08/Arun_leetcode/tree/master/0619-biggest-single-number) |
+| [1135-customers-who-bought-all-products](https://github.com/run-08/Arun_leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/run-08/Arun_leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/run-08/Arun_leetcode/tree/master/1734-bank-account-summary-ii) |
 ## Minimum Spanning Tree
