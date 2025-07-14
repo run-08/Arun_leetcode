@@ -24,9 +24,7 @@ class Solution {
     private int dfs ( Node root ) {
         if ( root == null ) return 0;
         int max = 0;
-        List < Node > children = root.children;
-        if ( children == null ) return 0;
-        for ( Node child : children ) max = Math.max ( dfs ( child ) , max );
+        for ( Node child : root.children ) max = Math.max ( dfs ( child ) , max );
         return max + 1;
     }
 }
