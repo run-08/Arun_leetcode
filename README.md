@@ -1530,6 +1530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/run-08/Arun_leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/run-08/Arun_leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/run-08/Arun_leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1523-capital-gainloss](https://github.com/run-08/Arun_leetcode/tree/master/1523-capital-gainloss) |
 | [1734-bank-account-summary-ii](https://github.com/run-08/Arun_leetcode/tree/master/1734-bank-account-summary-ii) |
 | [2024-calculate-special-bonus](https://github.com/run-08/Arun_leetcode/tree/master/2024-calculate-special-bonus) |
 | [3816-dna-pattern-recognition](https://github.com/run-08/Arun_leetcode/tree/master/3816-dna-pattern-recognition) |
