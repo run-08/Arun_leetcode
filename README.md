@@ -1534,6 +1534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1734-bank-account-summary-ii](https://github.com/run-08/Arun_leetcode/tree/master/1734-bank-account-summary-ii) |
 | [2024-calculate-special-bonus](https://github.com/run-08/Arun_leetcode/tree/master/2024-calculate-special-bonus) |
 | [3816-dna-pattern-recognition](https://github.com/run-08/Arun_leetcode/tree/master/3816-dna-pattern-recognition) |
+| [3848-analyze-subscription-conversion](https://github.com/run-08/Arun_leetcode/tree/master/3848-analyze-subscription-conversion) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
