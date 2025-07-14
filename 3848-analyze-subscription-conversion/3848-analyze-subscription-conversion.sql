@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select user_id , round(AVG( case when activity_type Like 'f%' then activity_duration else null end), 2)as trial_avg_duration , round(AVG( case when  activity_type Like 'p%' then activity_duration else null end) , 2) as "paid_avg_duration" from UserActivity group by user_id having SUM( case when activity_type Like 'f%' then activity_duration else  0 end ) > 0 && SUM( case when activity_type like 'p%' then activity_duration else 0 end ) > 0 order by user_id;
