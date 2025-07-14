@@ -1,0 +1,1 @@
+select * , Case when dna_sequence LIKE 'ATG%' THEN 1 ELSE 0 end  As has_start , case when dna_sequence like '%TAA' || dna_sequence like '%TAG' || dna_sequence like '%TGA' then 1 else 0 end as has_stop , case when dna_sequence like '%ATAT%' then 1 else 0 end as has_atat , case when dna_sequence like '%GGG%' then 1 else 0 end as has_ggg from Samples;
