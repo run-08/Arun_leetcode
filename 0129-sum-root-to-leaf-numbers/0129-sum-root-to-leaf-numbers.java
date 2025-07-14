@@ -14,18 +14,18 @@
  * }
  */
 class Solution {
-    int res ;
+    int totalSum = 0;
     public int sumNumbers(TreeNode root) {
-         res = 0;
-         dfs(root , 0);
-         return res;
+        dfs ( root , 0 );
+        return totalSum ;
     }
-    public void dfs(TreeNode root , int sum ){
-        if(root.left == null && root.right == null) {
-            res += (sum * 10) + root.val;
-            return;
-        }
-        if(root.left != null) dfs(root.left, (sum * 10)+root.val);
-        if(root.right != null) dfs(root.right , (sum * 10)+root.val);
+    private void dfs ( TreeNode root , int sum ) {
+       if ( root.right != null && root.left != null ) {
+            dfs( root.left , sum * 10 + root.val );
+            dfs( root.right , sum * 10 + root.val );
+       }
+       else if ( root.right == null && root.left == null ) totalSum += sum * 10 + root.val ;
+       else if ( root.right != null )  dfs( root.right , sum * 10 + root.val );
+       else  dfs( root.left , sum * 10 + root.val ); 
     }
 }
