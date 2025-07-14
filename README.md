@@ -1528,6 +1528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1135-customers-who-bought-all-products](https://github.com/run-08/Arun_leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/run-08/Arun_leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/run-08/Arun_leetcode/tree/master/1734-bank-account-summary-ii) |
+| [3816-dna-pattern-recognition](https://github.com/run-08/Arun_leetcode/tree/master/3816-dna-pattern-recognition) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
