@@ -1529,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/run-08/Arun_leetcode/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/run-08/Arun_leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0608-tree-node](https://github.com/run-08/Arun_leetcode/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/run-08/Arun_leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/run-08/Arun_leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/run-08/Arun_leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/run-08/Arun_leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
