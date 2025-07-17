@@ -1,2 +1,6 @@
 # Write your MySQL query statement below
-select id , case  when p_id is null then 'Root'  when id in ( select p_id from Tree where p_id is not null )  then 'Inner' else 'Leaf' end  as type from Tree;
+select T.id ,  case 
+            when T.p_id is null then 'Root'
+            when exists (select true from Tree sT where T.id = sT.p_id )  then 'Inner'
+            else 'Leaf' end as type
+from Tree T;
