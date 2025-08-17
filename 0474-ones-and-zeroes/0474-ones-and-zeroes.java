@@ -25,7 +25,9 @@ class Solution {
         for ( int index = 0 ; index < strsSize ; index++ ) for ( int index1 = 0 ; index1 < m + 1 ; index1++ ) Arrays.fill( dp [ index ] [ index1 ] , -1 );
 
     
-        return  MaxOnesAndZeros ( strsSize - 1  , 0 , 0 );
+        int ans =  MaxOnesAndZeros ( strsSize - 1  , 0 , 0 );
+        // for ( int index = 0 ; index < strsSize ; index++ ) for ( int index1 = 0 ; index1 < m + 1 ; index1++ ) System.out.print( Arrays.toString( dp [ index ] [ index1 ] ) );
+        return ans;
 
     }
 
