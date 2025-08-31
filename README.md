@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/run-08/Arun_leetcode/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/run-08/Arun_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/run-08/Arun_leetcode/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/run-08/Arun_leetcode/tree/master/0268-missing-number) |
 | [0289-game-of-life](https://github.com/run-08/Arun_leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -1136,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/run-08/Arun_leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/run-08/Arun_leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/run-08/Arun_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/run-08/Arun_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/run-08/Arun_leetcode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/run-08/Arun_leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -1452,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/run-08/Arun_leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/run-08/Arun_leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
 | [0969-number-of-recent-calls](https://github.com/run-08/Arun_leetcode/tree/master/0969-number-of-recent-calls) |
@@ -1477,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/run-08/Arun_leetcode/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/run-08/Arun_leetcode/tree/master/0778-reorganize-string) |
 | [0794-swim-in-rising-water](https://github.com/run-08/Arun_leetcode/tree/master/0794-swim-in-rising-water) |
@@ -1529,6 +1533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0239-sliding-window-maximum) |
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 ## Counting Sort
 |  |
