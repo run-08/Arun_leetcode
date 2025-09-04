@@ -693,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/run-08/Arun_leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/run-08/Arun_leetcode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/run-08/Arun_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3830-find-closest-person](https://github.com/run-08/Arun_leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
