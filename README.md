@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/run-08/Arun_leetcode/tree/master/0299-bulls-and-cows) |
+| [0301-remove-invalid-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/run-08/Arun_leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/run-08/Arun_leetcode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/run-08/Arun_leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/run-08/Arun_leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/run-08/Arun_leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/run-08/Arun_leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/run-08/Arun_leetcode/tree/master/0623-add-one-row-to-tree) |
@@ -1344,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/run-08/Arun_leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/run-08/Arun_leetcode/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/run-08/Arun_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0491-non-decreasing-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0800-letter-case-permutation](https://github.com/run-08/Arun_leetcode/tree/master/0800-letter-case-permutation) |
