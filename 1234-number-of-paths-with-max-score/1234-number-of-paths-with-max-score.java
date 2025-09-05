@@ -35,8 +35,6 @@ class Solution {
         arr [ 0 ] [ 0 ] = -3;
         arr [ size - 1 ] [ size - 1 ] = 0;
 
-        // System.out.print( Arrays.deepToString ( arr ) );
-
         for ( int index = 0 ; index < size; index++ ) Arrays.fill( dp [ index ], -1 );
         
         long [] ans = dfs( size - 1, size -1 );
