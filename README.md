@@ -802,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/run-08/Arun_leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/run-08/Arun_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
+| [0863-sum-of-distances-in-tree](https://github.com/run-08/Arun_leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/run-08/Arun_leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/run-08/Arun_leetcode/tree/master/0922-possible-bipartition) |
 | [1120-flower-planting-with-no-adjacent](https://github.com/run-08/Arun_leetcode/tree/master/1120-flower-planting-with-no-adjacent) |
@@ -879,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/run-08/Arun_leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0832-binary-tree-pruning](https://github.com/run-08/Arun_leetcode/tree/master/0832-binary-tree-pruning) |
+| [0863-sum-of-distances-in-tree](https://github.com/run-08/Arun_leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0904-leaf-similar-trees](https://github.com/run-08/Arun_leetcode/tree/master/0904-leaf-similar-trees) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0955-complete-binary-tree-inserter](https://github.com/run-08/Arun_leetcode/tree/master/0955-complete-binary-tree-inserter) |
@@ -945,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/run-08/Arun_leetcode/tree/master/0801-is-graph-bipartite) |
 | [0813-all-paths-from-source-to-target](https://github.com/run-08/Arun_leetcode/tree/master/0813-all-paths-from-source-to-target) |
 | [0832-binary-tree-pruning](https://github.com/run-08/Arun_leetcode/tree/master/0832-binary-tree-pruning) |
+| [0863-sum-of-distances-in-tree](https://github.com/run-08/Arun_leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0871-keys-and-rooms](https://github.com/run-08/Arun_leetcode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/run-08/Arun_leetcode/tree/master/0904-leaf-similar-trees) |
 | [0922-possible-bipartition](https://github.com/run-08/Arun_leetcode/tree/master/0922-possible-bipartition) |
@@ -1273,6 +1276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/run-08/Arun_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/run-08/Arun_leetcode/tree/master/0647-palindromic-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0863-sum-of-distances-in-tree](https://github.com/run-08/Arun_leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0875-longest-mountain-in-array](https://github.com/run-08/Arun_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/run-08/Arun_leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/run-08/Arun_leetcode/tree/master/1121-partition-array-for-maximum-sum) |
