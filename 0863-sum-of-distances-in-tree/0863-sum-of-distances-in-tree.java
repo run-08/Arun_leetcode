@@ -40,7 +40,7 @@ class Solution {
            for ( int child : graph.get ( parent ) ) {
 
                  if ( child == grantParent ) continue;
-                  sumOfDistancesInTree [ child ] = sumOfDistancesInTree [ parent ] - count [ child ] + ( n - count [ child ] );  
+                sumOfDistancesInTree [ child ] = sumOfDistancesInTree [ parent ] - count [ child ] + ( n - count [ child ] );  
                  q.offer ( new int [] { child, parent } );
            }
 
