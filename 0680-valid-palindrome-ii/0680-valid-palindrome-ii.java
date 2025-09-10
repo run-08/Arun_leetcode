@@ -6,18 +6,11 @@ class Solution {
 
         while ( startPointer < endPointer ) {
 
-            if ( s.charAt ( startPointer ) == s.charAt ( endPointer ) ) {
+            if ( s.charAt ( startPointer ) != s.charAt ( endPointer ) ) return isPalindrome ( s, startPointer + 1, endPointer ) || isPalindrome ( s, startPointer , endPointer - 1 );
 
-                startPointer++;
-                endPointer--;
-                continue;
-
-            }
-
-            if ( startPointer + 1  == endPointer ) return true;
-
-            else return isPalindrome ( s, startPointer + 1, endPointer ) || isPalindrome ( s, startPointer , endPointer - 1 );
-
+               
+            startPointer++;
+            endPointer--;
 
         }
 
