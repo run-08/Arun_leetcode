@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/run-08/Arun_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/run-08/Arun_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0824-number-of-lines-to-write-string](https://github.com/run-08/Arun_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/run-08/Arun_leetcode/tree/master/0827-expressive-words) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
@@ -1293,6 +1294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/run-08/Arun_leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/run-08/Arun_leetcode/tree/master/0647-palindromic-substrings) |
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/run-08/Arun_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0863-sum-of-distances-in-tree](https://github.com/run-08/Arun_leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0875-longest-mountain-in-array](https://github.com/run-08/Arun_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/run-08/Arun_leetcode/tree/master/1025-minimum-cost-for-tickets) |
