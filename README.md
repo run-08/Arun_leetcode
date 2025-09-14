@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/run-08/Arun_leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/run-08/Arun_leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/2868-continuous-subarrays) |
 | [2881-split-strings-by-separator](https://github.com/run-08/Arun_leetcode/tree/master/2881-split-strings-by-separator) |
@@ -1325,6 +1326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/run-08/Arun_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/run-08/Arun_leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/run-08/Arun_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/run-08/Arun_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
