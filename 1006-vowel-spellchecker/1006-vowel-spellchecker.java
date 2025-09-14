@@ -1,5 +1,8 @@
 class Solution {
 
+    private final HashSet < Character > vowels = new HashSet <> ( Arrays.asList ( 'A', 'E', 'I', 'O', 'U', 'a', 'e', 'i', 'o', 'u') );
+
+
     public String[] spellchecker(String[] wordlist, String[] queries) {
         
         HashMap < String, String > map = new HashMap <> ();
@@ -19,7 +22,6 @@ class Solution {
 
         }
 
-        // System.out.print( map );
 
         for ( int index = 0 ; index < queriesLength ; index++ ) {
 
@@ -46,7 +48,7 @@ class Solution {
 
         StringBuilder newWord = new StringBuilder();
 
-         for ( char character : word.toCharArray() ) newWord.append (  ( "aeiouAEIOU".indexOf( character ) != -1 ) ? "-" : character );
+         for ( char character : word.toCharArray() ) newWord.append (  ( vowels.contains ( character ) ) ? "-" : character );
 
          return newWord.toString();
 
