@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/run-08/Arun_leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/run-08/Arun_leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/run-08/Arun_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/run-08/Arun_leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/run-08/Arun_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/run-08/Arun_leetcode/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/run-08/Arun_leetcode/tree/master/0414-third-maximum-number) |
@@ -1290,6 +1291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/run-08/Arun_leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/run-08/Arun_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/run-08/Arun_leetcode/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/run-08/Arun_leetcode/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/run-08/Arun_leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/run-08/Arun_leetcode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/run-08/Arun_leetcode/tree/master/0416-partition-equal-subset-sum) |
