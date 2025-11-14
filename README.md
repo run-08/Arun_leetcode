@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/run-08/Arun_leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/run-08/Arun_leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/run-08/Arun_leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2664-maximize-greatness-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/run-08/Arun_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/run-08/Arun_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -1235,6 +1236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/run-08/Arun_leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/run-08/Arun_leetcode/tree/master/2465-shifting-letters-ii) |
 | [2471-minimum-amount-of-time-to-collect-garbage](https://github.com/run-08/Arun_leetcode/tree/master/2471-minimum-amount-of-time-to-collect-garbage) |
+| [2625-increment-submatrices-by-one](https://github.com/run-08/Arun_leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/run-08/Arun_leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/run-08/Arun_leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1268,6 +1270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/run-08/Arun_leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/run-08/Arun_leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2411-spiral-matrix-iv](https://github.com/run-08/Arun_leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2625-increment-submatrices-by-one](https://github.com/run-08/Arun_leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/run-08/Arun_leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/run-08/Arun_leetcode/tree/master/3227-find-missing-and-repeated-values) |
