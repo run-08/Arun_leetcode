@@ -7,7 +7,6 @@ class Solution {
            if(bits[i]==1){
             i+=2;
             if(i>=n) return false;
-            if(i==n-1) return true;
            }
            else i++;
            if(i==n-1) return true;
