@@ -1,9 +1,9 @@
 class Solution {
     int count=0;
-    HashMap<Integer,HashSet<Integer>> edges;
+    List<List<Integer>> edges;
     public int maxKDivisibleComponents(int n, int[][] graph, int[] values, int k) {
-        edges = new HashMap();
-        for(int i=0;i<n;i++) edges.put(i,new HashSet<>());
+        edges = new ArrayList<>();
+        for(int i=0;i<n;i++) edges.add(new ArrayList<>());
         for(int[] edge:graph) {
             edges.get(edge[0]).add(edge[1]);
             edges.get(edge[1]).add(edge[0]);
@@ -18,6 +18,6 @@ class Solution {
             sum += dfs(child,node,k,values);
         }
         if(sum%k==0)count++;
-        return sum%k != 0 ? sum : 0;
+        return sum%k;
     }
 }
