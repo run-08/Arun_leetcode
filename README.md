@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/run-08/Arun_leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1025-minimum-cost-for-tickets](https://github.com/run-08/Arun_leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-add-to-array-form-of-integer](https://github.com/run-08/Arun_leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/run-08/Arun_leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/run-08/Arun_leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0853-most-profit-assigning-work](https://github.com/run-08/Arun_leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1027-longest-arithmetic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/run-08/Arun_leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/run-08/Arun_leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1185-find-in-mountain-array) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/run-08/Arun_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1027-longest-arithmetic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/run-08/Arun_leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/run-08/Arun_leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/run-08/Arun_leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-sum-of-distances-in-tree](https://github.com/run-08/Arun_leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0875-longest-mountain-in-array](https://github.com/run-08/Arun_leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1025-minimum-cost-for-tickets](https://github.com/run-08/Arun_leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1027-longest-arithmetic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/run-08/Arun_leetcode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1170-shortest-common-supersequence](https://github.com/run-08/Arun_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/run-08/Arun_leetcode/tree/master/1234-number-of-paths-with-max-score) |
