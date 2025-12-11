@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/run-08/Arun_leetcode/tree/master/3483-alternating-groups-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/run-08/Arun_leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3531-count-covered-buildings](https://github.com/run-08/Arun_leetcode/tree/master/3531-count-covered-buildings) |
 | [3533-snake-in-matrix](https://github.com/run-08/Arun_leetcode/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/run-08/Arun_leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/run-08/Arun_leetcode/tree/master/3582-find-indices-of-stable-mountains) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/run-08/Arun_leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/run-08/Arun_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/run-08/Arun_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
+| [3531-count-covered-buildings](https://github.com/run-08/Arun_leetcode/tree/master/3531-count-covered-buildings) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/run-08/Arun_leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 | [3583-count-special-triplets](https://github.com/run-08/Arun_leetcode/tree/master/3583-count-special-triplets) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/run-08/Arun_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/run-08/Arun_leetcode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/run-08/Arun_leetcode/tree/master/3430-count-days-without-meetings) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/run-08/Arun_leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3531-count-covered-buildings](https://github.com/run-08/Arun_leetcode/tree/master/3531-count-covered-buildings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/run-08/Arun_leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/run-08/Arun_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/run-08/Arun_leetcode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
