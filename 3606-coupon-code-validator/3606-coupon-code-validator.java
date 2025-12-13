@@ -1,0 +1,57 @@
+class Solution {
+    public List<String> validateCoupons(String[] code, String[] buisnessLine, boolean[] isActive) {
+        List<Coupon> coupons = new ArrayList<>();
+        int n=code.length;
+        for(int i=0;i<n;i++) coupons.add(new Coupon(code[i],buisnessLine[i],isActive[i]));
+        coupons = coupons
+              .stream()
+              .filter(coupon -> validateCode(coupon.code))
+              .filter(coupon -> coupon.isActive)
+              .filter(coupon -> coupon.buisnessLine.equals("electronics") || coupon.buisnessLine.equals("grocery") || coupon.buisnessLine.equals("pharmacy") || coupon.buisnessLine.equals("restaurant"))
+              .collect(Collectors.toList());
+        coupons.forEach(coupon -> System.out.print(coupon.toString()));
+        Collections.sort(coupons,(a,b)->{
+            if(!(a.buisnessLine.equals(b.buisnessLine))) {
+                return Integer.compare(getBuisnessLinePriority(a.buisnessLine),getBuisnessLinePriority(b.buisnessLine));
+            }
+            return a.code.compareTo(b.code);
+        });
+        List<String> result = coupons
+                                .stream()
+                                .map(coupon -> coupon.code)
+                                .collect(Collectors.toList());
+        // Collections.sort(result);
+        return result;
+    }
+    private boolean validateCode(String code){
+        if(code.length()==0) return false;
+        for(char c : code.toCharArray()){
+           if((c >='a'&&c<='z') || (c>='A'&&c<='Z') || (c>='0'&&c<='9') || c == '_') continue;
+           return false;
+        }
+        return true;
+    } 
+
+    private int getBuisnessLinePriority(String BuisnessLine){
+        switch(BuisnessLine){
+            case "electronics": return 1;
+            case "grocery": return 2;
+            case "pharmacy": return 3;
+            default: return 4;
+        }
+    }
+}
+class Coupon{
+    String code;
+    String buisnessLine;
+    boolean isActive;
+    Coupon(String code,String buisnessLine,boolean isActive){
+        this.code = code;
+        this.buisnessLine = buisnessLine;
+        this.isActive = isActive;
+    }
+    @Override
+    public String toString(){
+        return "[ "+(code)+", "+(buisnessLine)+", "+(isActive)+" ]";
+    }
+}
