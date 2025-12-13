@@ -12,7 +12,11 @@ class Solution {
         coupons.forEach(coupon -> System.out.print(coupon.toString()));
         Collections.sort(coupons,(a,b)->{
             if(!(a.buisnessLine.equals(b.buisnessLine))) {
-                return Integer.compare(getBuisnessLinePriority(a.buisnessLine),getBuisnessLinePriority(b.buisnessLine));
+                char A = a.buisnessLine.charAt(0);
+                char B = b.buisnessLine.charAt(0);
+                if(A<B) return -1;
+                else if(A>B) return 1;
+                return 0;
             }
             return a.code.compareTo(b.code);
         });
