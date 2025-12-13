@@ -9,7 +9,7 @@ class Solution {
               .filter(coupon -> coupon.isActive)
               .filter(coupon -> coupon.buisnessLine.equals("electronics") || coupon.buisnessLine.equals("grocery") || coupon.buisnessLine.equals("pharmacy") || coupon.buisnessLine.equals("restaurant"))
               .collect(Collectors.toList());
-        coupons.forEach(coupon -> System.out.print(coupon.toString()));
+        // coupons.forEach(coupon -> System.out.print(coupon.toString()));
         Collections.sort(coupons,(a,b)->{
             if(!(a.buisnessLine.equals(b.buisnessLine))) {
                 char A = a.buisnessLine.charAt(0);
@@ -36,14 +36,14 @@ class Solution {
         return true;
     } 
 
-    private int getBuisnessLinePriority(String BuisnessLine){
-        switch(BuisnessLine){
-            case "electronics": return 1;
-            case "grocery": return 2;
-            case "pharmacy": return 3;
-            default: return 4;
-        }
-    }
+    // private int getBuisnessLinePriority(String BuisnessLine){
+    //     switch(BuisnessLine){
+    //         case "electronics": return 1;
+    //         case "grocery": return 2;
+    //         case "pharmacy": return 3;
+    //         default: return 4;
+    //     }
+    // }
 }
 class Coupon{
     String code;
