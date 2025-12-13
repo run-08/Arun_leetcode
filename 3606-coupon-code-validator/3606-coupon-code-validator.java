@@ -1,8 +1,10 @@
 class Solution {
     public List<String> validateCoupons(String[] code, String[] buisnessLine, boolean[] isActive) {
-        List<Coupon> coupons = new ArrayList<>();
         int n=code.length;
-        for(int i=0;i<n;i++) coupons.add(new Coupon(code[i],buisnessLine[i],isActive[i]));
+        List<Coupon> coupons = IntStream
+               .range(0,n)
+               .mapToObj(i -> new Coupon(code[i],buisnessLine[i],isActive[i]))
+               .collect(Collectors.toList());
         coupons = coupons
               .stream()
               .filter(coupon -> validateCode(coupon.code))
@@ -12,11 +14,8 @@ class Solution {
         // coupons.forEach(coupon -> System.out.print(coupon.toString()));
         Collections.sort(coupons,(a,b)->{
             if(!(a.buisnessLine.equals(b.buisnessLine))) {
-                char A = a.buisnessLine.charAt(0);
-                char B = b.buisnessLine.charAt(0);
-                if(A<B) return -1;
-                else if(A>B) return 1;
-                return 0;
+                if(a.buisnessLine.charAt(0)<b.buisnessLine.charAt(0)) return -1;
+                return 1;
             }
             return a.code.compareTo(b.code);
         });
