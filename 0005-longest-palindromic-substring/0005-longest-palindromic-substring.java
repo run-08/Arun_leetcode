@@ -4,7 +4,7 @@ class Solution {
         int n = s.length(),max=0,start=0,end=0;
         isPalindrome = new Boolean[n][n];
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
+            for(int j=i;j<n;j++){
                 if(isPalindrome[i][j]=isPalindrome(s,i,j)) {
                     if(max < j-i){
                         max=j-i;
