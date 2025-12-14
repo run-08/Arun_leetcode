@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/run-08/Arun_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/run-08/Arun_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1666-make-the-string-great](https://github.com/run-08/Arun_leetcode/tree/master/1666-make-the-string-great) |
+| [1745-palindrome-partitioning-iv](https://github.com/run-08/Arun_leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1764-maximum-repeating-substring](https://github.com/run-08/Arun_leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/run-08/Arun_leetcode/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/run-08/Arun_leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -1367,6 +1368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/run-08/Arun_leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/run-08/Arun_leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/run-08/Arun_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1745-palindrome-partitioning-iv](https://github.com/run-08/Arun_leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1764-maximum-repeating-substring](https://github.com/run-08/Arun_leetcode/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/run-08/Arun_leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
