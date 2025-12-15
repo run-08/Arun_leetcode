@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/run-08/Arun_leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/run-08/Arun_leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/run-08/Arun_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/run-08/Arun_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3533-snake-in-matrix](https://github.com/run-08/Arun_leetcode/tree/master/3533-snake-in-matrix) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/run-08/Arun_leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
@@ -1388,6 +1389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/run-08/Arun_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/run-08/Arun_leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/run-08/Arun_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/run-08/Arun_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/run-08/Arun_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Greedy
