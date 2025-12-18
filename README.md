@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/run-08/Arun_leetcode/tree/master/3606-coupon-code-validator) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/run-08/Arun_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3639-zero-array-transformation-i](https://github.com/run-08/Arun_leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/run-08/Arun_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/run-08/Arun_leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/run-08/Arun_leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/run-08/Arun_leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -1253,6 +1254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3502-count-substrings-with-k-frequency-characters-i](https://github.com/run-08/Arun_leetcode/tree/master/3502-count-substrings-with-k-frequency-characters-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/run-08/Arun_leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/run-08/Arun_leetcode/tree/master/3573-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/run-08/Arun_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1290,6 +1292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/run-08/Arun_leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/run-08/Arun_leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/run-08/Arun_leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/run-08/Arun_leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Matrix
 |  |
 | ------- |
