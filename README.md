@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/run-08/Arun_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
+| [0821-shortest-distance-to-a-character](https://github.com/run-08/Arun_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-number-of-lines-to-write-string](https://github.com/run-08/Arun_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/run-08/Arun_leetcode/tree/master/0827-expressive-words) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/run-08/Arun_leetcode/tree/master/0778-reorganize-string) |
 | [0800-letter-case-permutation](https://github.com/run-08/Arun_leetcode/tree/master/0800-letter-case-permutation) |
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0821-shortest-distance-to-a-character](https://github.com/run-08/Arun_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-number-of-lines-to-write-string](https://github.com/run-08/Arun_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/run-08/Arun_leetcode/tree/master/0827-expressive-words) |
 | [0878-shifting-letters](https://github.com/run-08/Arun_leetcode/tree/master/0878-shifting-letters) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/run-08/Arun_leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/run-08/Arun_leetcode/tree/master/0768-partition-labels) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/run-08/Arun_leetcode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [0821-shortest-distance-to-a-character](https://github.com/run-08/Arun_leetcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0827-expressive-words](https://github.com/run-08/Arun_leetcode/tree/master/0827-expressive-words) |
 | [0853-most-profit-assigning-work](https://github.com/run-08/Arun_leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
