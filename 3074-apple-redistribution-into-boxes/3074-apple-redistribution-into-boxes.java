@@ -12,7 +12,7 @@ class Solution {
         Arrays.sort(capacity);
         int sum =  Arrays
                        .stream(apple)
-                       .reduce(0,(a,b) -> a+b),minBox=0,sumWeight=0;
+                       .reduce(0,Integer::sum),minBox=0,sumWeight=0;
         // System.out.print(sum);
         while((m--) >= 0){
             int weight = capacity[m];
