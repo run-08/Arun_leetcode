@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0878-shifting-letters](https://github.com/run-08/Arun_leetcode/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/run-08/Arun_leetcode/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-distinct-subsequences-ii](https://github.com/run-08/Arun_leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/run-08/Arun_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/run-08/Arun_leetcode/tree/master/0981-delete-columns-to-make-sorted) |
@@ -1386,6 +1387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/run-08/Arun_leetcode/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0863-sum-of-distances-in-tree](https://github.com/run-08/Arun_leetcode/tree/master/0863-sum-of-distances-in-tree) |
 | [0875-longest-mountain-in-array](https://github.com/run-08/Arun_leetcode/tree/master/0875-longest-mountain-in-array) |
+| [0940-distinct-subsequences-ii](https://github.com/run-08/Arun_leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/run-08/Arun_leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1027-longest-arithmetic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1121-partition-array-for-maximum-sum](https://github.com/run-08/Arun_leetcode/tree/master/1121-partition-array-for-maximum-sum) |
