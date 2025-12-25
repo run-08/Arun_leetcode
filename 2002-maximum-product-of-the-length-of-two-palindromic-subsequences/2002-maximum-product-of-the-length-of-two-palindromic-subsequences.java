@@ -8,13 +8,14 @@ class Solution {
         if(idx==s.length()) return (isPalindrome(cur1)&&isPalindrome(cur2)) ? cur1.length()*cur2.length():0 ;
         String key = cur1+","+cur2+","+idx;
         if(map.containsKey(key)) return map.get(key);
-        return Math.max (
+        map.put(key,Math.max (
             dfs(cur1,cur2,s,idx+1),
             Math.max(
                 dfs(cur1+s.charAt(idx),cur2,s,idx+1),
                 dfs(cur1,cur2+s.charAt(idx),s,idx+1)
             )
-        );
+        ));
+        return map.get(key);
     }
     private boolean isPalindrome(String s){
         return s.equals(new StringBuilder(s).reverse().toString());
