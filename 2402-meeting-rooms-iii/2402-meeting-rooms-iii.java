@@ -7,9 +7,11 @@ class Solution {
         int[] roomUsed = new int[n];
         int max = 0, room = 0;
         // process...
-        Stream
-              .iterate( 0, roomNo -> roomNo < n , roomNo -> roomNo + 1)
-              .forEach( roomNo -> unUsedRoom.add(roomNo) );
+        // Using TC increases...
+        // Stream
+        //       .iterate( 0, roomNo -> roomNo < n , roomNo -> roomNo + 1)
+        //       .forEach( roomNo -> unUsedRoom.add(roomNo) );
+        for(int i=0;i<n;i++) unUsedRoom.add(i);
         for(int[] meeting: meetings){
             // Because, if previous meeting was finished and still some room were free in unUsed mean, we failed to calculate that's why ae are using this logic....
             while (!minHeap.isEmpty() && minHeap.peek().time <= meeting[0]) {
