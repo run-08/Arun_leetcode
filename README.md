@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/run-08/Arun_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/run-08/Arun_leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/run-08/Arun_leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/run-08/Arun_leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/run-08/Arun_leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
 | [1290-make-array-strictly-increasing](https://github.com/run-08/Arun_leetcode/tree/master/1290-make-array-strictly-increasing) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/run-08/Arun_leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/run-08/Arun_leetcode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1503-reducing-dishes](https://github.com/run-08/Arun_leetcode/tree/master/1503-reducing-dishes) |
@@ -1452,6 +1454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/run-08/Arun_leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/run-08/Arun_leetcode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/run-08/Arun_leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1448-maximum-69-number](https://github.com/run-08/Arun_leetcode/tree/master/1448-maximum-69-number) |
 | [1503-reducing-dishes](https://github.com/run-08/Arun_leetcode/tree/master/1503-reducing-dishes) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/run-08/Arun_leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -1647,6 +1650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/run-08/Arun_leetcode/tree/master/0794-swim-in-rising-water) |
 | [1184-car-pooling](https://github.com/run-08/Arun_leetcode/tree/master/1184-car-pooling) |
 | [1325-path-with-maximum-probability](https://github.com/run-08/Arun_leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/run-08/Arun_leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/run-08/Arun_leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2379-maximum-total-importance-of-roads](https://github.com/run-08/Arun_leetcode/tree/master/2379-maximum-total-importance-of-roads) |
