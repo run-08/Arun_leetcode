@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/run-08/Arun_leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/run-08/Arun_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/run-08/Arun_leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/run-08/Arun_leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-make-array-strictly-increasing](https://github.com/run-08/Arun_leetcode/tree/master/1290-make-array-strictly-increasing) |
 | [1294-range-frequency-queries](https://github.com/run-08/Arun_leetcode/tree/master/1294-range-frequency-queries) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/run-08/Arun_leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/run-08/Arun_leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/run-08/Arun_leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -1340,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1234-number-of-paths-with-max-score](https://github.com/run-08/Arun_leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1331-path-with-maximum-gold](https://github.com/run-08/Arun_leetcode/tree/master/1331-path-with-maximum-gold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-number-of-closed-islands](https://github.com/run-08/Arun_leetcode/tree/master/1380-number-of-closed-islands) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/run-08/Arun_leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
