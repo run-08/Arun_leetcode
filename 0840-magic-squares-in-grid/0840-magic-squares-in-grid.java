@@ -38,10 +38,6 @@ class Solution {
             if(sum != value) return false;
         }
         // diagonal checking...
-
-        int left = grid[r][c]+grid[r+1][c+1]+grid[r+2][c+2];
-        int right = grid[r][c+2]+grid[r+1][c+1]+grid[r+2][c];
-        System.out.println(left+" "+(right)+" "+(value));
         if(grid[r][c]+grid[r+1][c+1]+grid[r+2][c+2] != value) return false;
         if(grid[r][c+2]+grid[r+1][c+1]+grid[r+2][c] != value) return false;
         return true;
