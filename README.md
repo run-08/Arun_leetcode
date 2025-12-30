@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/run-08/Arun_leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0827-expressive-words](https://github.com/run-08/Arun_leetcode/tree/master/0827-expressive-words) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
+| [0840-magic-squares-in-grid](https://github.com/run-08/Arun_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0853-most-profit-assigning-work](https://github.com/run-08/Arun_leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0859-design-circular-deque](https://github.com/run-08/Arun_leetcode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/run-08/Arun_leetcode/tree/master/0860-design-circular-queue) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/run-08/Arun_leetcode/tree/master/0778-reorganize-string) |
 | [0808-number-of-matching-subsequences](https://github.com/run-08/Arun_leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0835-linked-list-components](https://github.com/run-08/Arun_leetcode/tree/master/0835-linked-list-components) |
+| [0840-magic-squares-in-grid](https://github.com/run-08/Arun_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/run-08/Arun_leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/run-08/Arun_leetcode/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/run-08/Arun_leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0670-maximum-swap](https://github.com/run-08/Arun_leetcode/tree/master/0670-maximum-swap) |
+| [0840-magic-squares-in-grid](https://github.com/run-08/Arun_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1031-add-to-array-form-of-integer](https://github.com/run-08/Arun_leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1370-count-number-of-nice-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1341,6 +1344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/run-08/Arun_leetcode/tree/master/0566-reshape-the-matrix) |
 | [0695-max-area-of-island](https://github.com/run-08/Arun_leetcode/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/run-08/Arun_leetcode/tree/master/0794-swim-in-rising-water) |
+| [0840-magic-squares-in-grid](https://github.com/run-08/Arun_leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0861-flipping-an-image](https://github.com/run-08/Arun_leetcode/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/run-08/Arun_leetcode/tree/master/0945-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/run-08/Arun_leetcode/tree/master/0971-shortest-bridge) |
