@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/run-08/Arun_leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/run-08/Arun_leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/run-08/Arun_leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/run-08/Arun_leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/run-08/Arun_leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/run-08/Arun_leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/run-08/Arun_leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1443,6 +1444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/run-08/Arun_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2755-extra-characters-in-a-string](https://github.com/run-08/Arun_leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2855-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/run-08/Arun_leetcode/tree/master/2855-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/run-08/Arun_leetcode/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/run-08/Arun_leetcode/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/run-08/Arun_leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/run-08/Arun_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
