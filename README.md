@@ -1416,6 +1416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1027-longest-arithmetic-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/run-08/Arun_leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1121-partition-array-for-maximum-sum](https://github.com/run-08/Arun_leetcode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/run-08/Arun_leetcode/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1170-shortest-common-supersequence](https://github.com/run-08/Arun_leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1234-number-of-paths-with-max-score](https://github.com/run-08/Arun_leetcode/tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
