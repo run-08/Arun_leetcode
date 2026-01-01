@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/run-08/Arun_leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1273-compare-strings-by-frequency-of-the-smallest-character](https://github.com/run-08/Arun_leetcode/tree/master/1273-compare-strings-by-frequency-of-the-smallest-character) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/run-08/Arun_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/run-08/Arun_leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/run-08/Arun_leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/run-08/Arun_leetcode/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
@@ -1420,6 +1421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/run-08/Arun_leetcode/tree/master/1250-longest-common-subsequence) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/run-08/Arun_leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1290-make-array-strictly-increasing](https://github.com/run-08/Arun_leetcode/tree/master/1290-make-array-strictly-increasing) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/run-08/Arun_leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/run-08/Arun_leetcode/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/run-08/Arun_leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/run-08/Arun_leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
