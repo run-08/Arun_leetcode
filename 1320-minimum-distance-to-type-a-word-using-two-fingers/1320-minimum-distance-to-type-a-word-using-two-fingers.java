@@ -6,7 +6,7 @@ class Solution {
     }
     private int helper(int i,int j,String s,int idx){
         if(idx==s.length()) return 0;
-        String key = idx+", "+i+", "+j;
+        String key = idx+", "+(i != -1 ? s.charAt(i) : -1)+", "+(j != -1 ? s.charAt(j) : -1);
         if(memo.containsKey(key)) return memo.get(key);
         // process 1st finger...
         int x1 = (s.charAt(idx)-'A')/6,y1=(s.charAt(idx)-'A')%6;
