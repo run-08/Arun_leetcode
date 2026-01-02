@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/run-08/Arun_leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/run-08/Arun_leetcode/tree/master/0945-snakes-and-ladders) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/run-08/Arun_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/run-08/Arun_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0971-shortest-bridge](https://github.com/run-08/Arun_leetcode/tree/master/0971-shortest-bridge) |
 | [0978-valid-mountain-array](https://github.com/run-08/Arun_leetcode/tree/master/0978-valid-mountain-array) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/run-08/Arun_leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/run-08/Arun_leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0931-maximum-frequency-stack](https://github.com/run-08/Arun_leetcode/tree/master/0931-maximum-frequency-stack) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/run-08/Arun_leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/run-08/Arun_leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/run-08/Arun_leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/run-08/Arun_leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
