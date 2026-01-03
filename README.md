@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/run-08/Arun_leetcode/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/run-08/Arun_leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/run-08/Arun_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/run-08/Arun_leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3931-process-string-with-special-operations-i](https://github.com/run-08/Arun_leetcode/tree/master/3931-process-string-with-special-operations-i) |
 ## Hash Table
 |  |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/run-08/Arun_leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/run-08/Arun_leetcode/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/run-08/Arun_leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/run-08/Arun_leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
