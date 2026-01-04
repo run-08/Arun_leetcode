@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/run-08/Arun_leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/run-08/Arun_leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/run-08/Arun_leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/run-08/Arun_leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/run-08/Arun_leetcode/tree/master/1666-make-the-string-great) |
 | [1745-palindrome-partitioning-iv](https://github.com/run-08/Arun_leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1764-maximum-repeating-substring](https://github.com/run-08/Arun_leetcode/tree/master/1764-maximum-repeating-substring) |
@@ -1234,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/run-08/Arun_leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1582-design-browser-history](https://github.com/run-08/Arun_leetcode/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/run-08/Arun_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/run-08/Arun_leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/run-08/Arun_leetcode/tree/master/1666-make-the-string-great) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/run-08/Arun_leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/run-08/Arun_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -1444,6 +1446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1503-reducing-dishes](https://github.com/run-08/Arun_leetcode/tree/master/1503-reducing-dishes) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/run-08/Arun_leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/run-08/Arun_leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/run-08/Arun_leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1745-palindrome-partitioning-iv](https://github.com/run-08/Arun_leetcode/tree/master/1745-palindrome-partitioning-iv) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/run-08/Arun_leetcode/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1764-maximum-repeating-substring](https://github.com/run-08/Arun_leetcode/tree/master/1764-maximum-repeating-substring) |
