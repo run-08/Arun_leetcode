@@ -11,21 +11,22 @@ class Solution {
         if(changes > k) return 0;
         if(dp[idx][changes][prev] != -1) return dp[idx][changes][prev];
         long count = 0;
+        // mines....
         // Try out all possibilities...
         // for(int i=1;i<=m;i++) {
         //     int max = Math.max(i,prev);
         //     count = ( count + helper(max,n,(max>prev?1+changes:changes),k,idx+1,m) ) % MOD;
         // }
+        // solutions...
         // We need to consider only maximum, so just pickup the prev + 1 and prev - 1 and prev as possible...
         // so only 3 states...
         // Let us took prev - 1;
-        // if(prev-1 > 0)count = ( count + helper(prev-1,n,changes,k,idx+1,m))%MOD; 
-        // if(prev+1 >= m)count = ( count + helper(prev+1,n,changes+1,k,idx+1,m)) % MOD;
-        // count = ( count + helper(prev,n,changes,k,idx+1,m)) % MOD;
+        // possible ways... Assume if changes == k, then we only need to consider lowest as possible to length become = n... so we multiply....
         if (prev > 0) {
             count += (long) prev *
                      helper(prev, n, changes, k, idx + 1, m);
         }
+        // Go for maximum....
         for (int newMax = prev + 1; newMax <= m; newMax++) {
             count += helper(newMax, n, changes + 1, k, idx + 1, m);
         }
