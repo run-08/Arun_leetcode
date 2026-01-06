@@ -5,7 +5,6 @@ class Solution {
         map = new HashMap<>();
         int max = Integer.MIN_VALUE,maxIdx=0;
         helper(root,1);
-        System.out.print(map+" "+(maxLevel));
         for(int i=1;i<=maxLevel;i++) {
            int sumLevel = map.get(i);
            if(sumLevel > max){
@@ -23,4 +22,5 @@ class Solution {
         helper(root.left,level+1);
         helper(root.right,level+1);
     }
+    
 }
